@@ -176,7 +176,7 @@ def main():
     ytop = int(math.ceil(ymax / 50.0) * 50)
     ybot = 0
 
-    fig, ax = plt.subplots(figsize=(11.5, 4.6), dpi=200)
+    fig, ax = plt.subplots(figsize=(12.5, 4.6), dpi=200)
     fig.patch.set_facecolor(BG)
     ax.set_facecolor(BG)
 
@@ -218,16 +218,16 @@ def main():
         ha="left", va="center", **text_kwargs,
     )
 
-    for x, t in zip([0.0, 0.26, 0.52, 0.76], trails):
+    for x, t in zip([0.0, 0.20, 0.38, 0.56, 0.74], trails):
         color = COLORS[t["label"]]
-        name_kwargs = {"color": color, "fontsize": 9.5}
+        name_kwargs = {"color": color, "fontsize": 8.5}
         if PROP_MED is not None:
             name_kwargs["fontproperties"] = PROP_MED
         ax.text(
             x, 1.10, short_name(t["label"]), transform=ax.transAxes,
             ha="left", va="bottom", **name_kwargs,
         )
-        sub_kwargs = {"color": TEXT_SEC, "fontsize": 7.5}
+        sub_kwargs = {"color": TEXT_SEC, "fontsize": 7}
         if PROP_REG is not None:
             sub_kwargs["fontproperties"] = PROP_REG
         ax.text(
