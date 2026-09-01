@@ -1,0 +1,208 @@
+{
+    "maps": [
+        {
+            "id": 398593777,
+            "name": "Cirque Peak via Helen Lake Trail",
+            "description": null,
+            "description_lang": null,
+            "description_original": null,
+            "description_source": null,
+            "presentationType": "map",
+            "slug": "suggested-route-6cb693f",
+            "created_at": "2026-07-11T03:41:39Z",
+            "timezone": null,
+            "location": {
+                "postalCode": null,
+                "city": null,
+                "region": "AB",
+                "country": "CA",
+                "country_id": 139,
+                "latitude": "51.66407",
+                "longitude": "-116.43852"
+            },
+            "bounds": {
+                "latitudeTopLeft": "51.70012",
+                "latitudeBottomRight": "51.66177",
+                "longitudeTopLeft": "-116.43852",
+                "longitudeBottomRight": "-116.39929"
+            },
+            "trailId": 10291219,
+            "activity": null,
+            "rating": null,
+            "difficulty": null,
+            "comment": null,
+            "obstacles": null,
+            "ratingAttributes": [],
+            "infoAttributes": [],
+            "user": null,
+            "dataUid": null,
+            "associatedTrailReviewId": null,
+            "routeType": null,
+            "originalAtMapId": 398593773,
+            "private": null,
+            "contentPrivacy": "urn:alltrails:visibility:public",
+            "hidden": null,
+            "popularity": null,
+            "summaryStats": {
+                "duration": 417,
+                "updatedAt": "2026-07-11T03:41:40Z",
+                "elevationMax": 2980,
+                "distanceTotal": 16793.53,
+                "elevationGain": 1148,
+                "elevationLoss": 1134
+            },
+            "profilePhotoId": null,
+            "photoCount": 0,
+            "splits": null,
+            "routes": [
+                {
+                    "id": 1,
+                    "sequenceNum": 1,
+                    "status": "A",
+                    "description": null,
+                    "name": null,
+                    "rating": null,
+                    "trailId": null,
+                    "location": {
+                        "postalCode": null,
+                        "city": null,
+                        "region": "AB",
+                        "country": "CA",
+                        "country_id": 139,
+                        "latitude": "51.66407",
+                        "longitude": "-116.43852"
+                    },
+                    "bounds": {
+                        "latitudeTopLeft": "51.70012",
+                        "latitudeBottomRight": "51.66177",
+                        "longitudeTopLeft": "-116.43852",
+                        "longitudeBottomRight": "-116.39929"
+                    },
+                    "createdAt": null,
+                    "updatedAt": null,
+                    "timezone": null,
+                    "lineSegments": [
+                        {
+                            "id": 10001,
+                            "sequenceNum": 1,
+                            "status": "A",
+                            "polyline": {
+                                "pointsData": "msizHv{teUEEACCOAMAMM{@A}@Ce@K]CKAI?AAECWEc@?]?SAK?MAc@@IDUBe@@M@M?E@I@O@O@EJ]BKDMDG@IH[BM?KCOQ]EGGEAACAGMIUQ[EIASG[EU?[CUASCUAMAECKCM?UCOI_@MYEKM]O]IUEO?EAGAOAQ?W@K?UE_@AKEY?KCQ?IGi@AO?IAA???C?C?GAKQuAAGEQAI?QDQFSFMFINQ@AFSDQDGLQLGHGDEBC@CTSHMDMHKFKFG?A@A?A@ADIDKRYLYLYLc@Pi@HWDK?A@EDGDKHOXc@Ti@JWDMJ]BOBO?C@I@IBIHc@FWBODS@EFSFSDU@IN]FS??@IFSL[La@Tk@HWHWJYHS@CFOFSHYLe@DKBOBQ@G?[AMAGEGAM?U?E?C?A?ECQC_@?WAK?S@KBEBC@ABEFKFSR[BG?K?S?E?GCu@@Q@GDKNYFODWBG@G@O?OAc@AI?A?CAEAIGKKSGWCM?MAMEWCMK[MUGSCGAAC?A?C@KHIHIFG?ECE?GDE?ECCEAAKWCI?K@O?_@@W@M?C?OAS?UAE?KAI?g@@OAQ?a@B[?E@[@W?A?K?C?AACAKGOI_@IYOq@EUCWEQEMES?ACKAG?GAKGg@EMGMCO?G??AME[A[EYA]?M?G?M?M?S@IBG@E@I@GCY?IEa@EQAQCe@C]AEEWCOAM@M?IAKEO?M@GFQ@]F]@E?M@IBGFM@E@C@E?C?EAIEOGMGKAIA_@AMAGAIAMEQI]EICICW?EAK?I@K@M?IAG?G@M@EHQ@E@M@SAQKq@IYEMAE??AEEKEIEKCGIICECQEOISEQC_@COAO?I@M@GBI@C@C@EBEFEHKFKNc@DIDI@ABIDMBWFa@BMHSBG@GFUFUH[BIL}@Fy@?IJg@@E???C?IBSD]De@BUJ[DS@WFi@D_@?A??D]BYDa@?q@?OAK?KCS?ECO?IEUGS?ACMCKESIYEMIQIYAGAK@GAOGc@EUGQAC??A?C?E@E@E@I@IHKAIHEFEDEHAHCHABE@E?IMKQEEIEGAA?EAECCECECEGUESE]?S?GBS?s@AK?KCIIQAAEMCQESGWKo@ISEEIGEAE?YFOBC@I@MHIFMJSVWTQHWNUFGBGBKDMHQL[TA@YLQLUXKL??GJGLKLQPSZIFKPONEBWLOHC@SJOJOLMJEFED]P[XSLA@UNWNa@V??MJYZQLGHIN?@ELIJORWXORIJUROHUPEBGFKFUL]R]V]\\YTA@URKHIHKFKFILGHi@j@OTGHEFKJONWXMRIFONYRUTCBIHGFGDIHYNWTIDOP[PKLGFA@GFIFK@O?I@C@ELIJEDGBSDK@[EKCA?IAIAGDGJEDS?KCK?EBQJQPMf@GJA@EFKRMXUb@MZGHMRONMLKFA@IDKFKHMLIHMTADCFKl@IZE^EP?@CNCNCLELE^GNENERCFSZORKRCHCDCJEJELGLITKPEHK`@EJEHEFKDE@A?GCCI?G?C?IACAECCG@GBGDQJKBK@_@FYFWJEBIBKFMHSLSLIJOPONOHWFC@KBQFQFSHQDWD]B]BG?YBK?O@KBS@A@WFS@IBWNGBIDQDKDMDe@Ta@VSHQHEBA?E@OHIDMDk@Xa@NQLQFGDE@ODKFOFODU@A?YCKCY?UFA?EBEDGHIHKJUJGDMLMFGBQB[FIBIBQ@K?K?CCIMWWEGIQMQGQK[CECEEIOKQKUKOAA?KEIEc@c@QQEEMMGGKEMIYWIGk@OQKGCE?E?I@E@G?I?ICGEMMKIQIUGa@SEECCEEGGGEKEOGKIEEOE??YQMIOQECCAK?A?A?E@G?EAEGEMEGKMKGO?IAYGM?SGE?IH????IHGHKBMBOHMDE@ILKLKFMBK?EBA?CA@Q?ABOBS@K?OFWFMLM@E@A@E?SHc@?QAIKQGO??GMCGEEEICKEOCEGEMACACEC?IUEAOMAICCGIIEGCA?E@E@ADABABCJELIPKNUl@K^IPAFCDEVAFCJEPCDGHIHGFELEHEHADCDEJCH?@CNALCL?BGX?B@N?B?@BFDJ@F?D?N?DB\\?@BN@LBHBH?HANKTAHAJCFCFADADCJCJ??CNIBA?E?IDC?G@EHCLCFCBG@GD]BAF?H?B?DABA?CAABABCDEDCBA@CDKJOPKJADCFC\\CF??I@GBKBIDIFILMJGD??C@E?E@CBEDGFKLOLCBOFKFKFIFIL_@X??IFEFIJMPSX_@z@ILWVKJEDYTQJQNCDGDA@I@I?UH_@FKB??IBOBKFSJIBC?GIC?SRQHKFK@KCC@E@EBIBKDIBI?G?EAA?GDMEC@C@GJEBSDC@OZI?EBCBC@E?C@EBG@G@ODG?C@GDCBE@A?G@INUPK@GAGEE?EAAAGGGCG@EBGBQXE@W@CAGMCAEAGAE@GBE?E@KCGBGBECECECEAC@MVGFE@CEOYCCEAEBSPE?IEOHCBKJCACCCECCCAGGE@GFC@GECAA?CDA@CDGFUCQEMGC?ICCCCCGKEECAEAGCIBE?CAC?CAG?GI?MACAIIGGCI@E@IOEIGEGEIEEIAAGGFF@@DHHDFDFDDHHNDAHAFBHF@H@B?LFHF?B@B?B@D?HCFBD@B@DDFJBBBBHBB?LFPDTBFGBE@ABE@?B@FDBAFGDAFFB@BBBDBBB@JKBCNIHDD?RQDCD@BBNXBDDAFGLWBAD@DBDBDBFCFCJBDAD?FCDAF@D@B@FLB@VADAPYFCDCFAFBFF@@D@D?FDF@JATQHOFA@?DABCFEBAF?NEFAFADCBAD?BABCDCH?N[BAREDCFKBABALDFE@?D@F?H?HCJEHCDCDABAJBJAJGPIRSB?FHB?HCRKJGNCHC??JC^GTIH?HA@AFEBEPOPKXUDEJKVWHM^{@RYLQHKDGHG??^YHMHGJGJGNGBCNMJMFGDEBCDAD?BA??FELKHMHGHEJCFCHA??BGB]BG@EJKNQJKBE@ABCDEBE@C@CB@@?@C?E?C?I@G\\CFEFABCBGBMDIFAB?HED?@?HCBO??BKBK@E@EBGBG@K@IJU@O?ICICIAMCO?AC]?E?O?EAGEKCG?A?CAO?CFY?CBM@MBO?ABIDKBE@EDIDIDMFGHIFIBEDQBK@GDWBE@GHQJ_@Tm@JOHQDMBK@C@C@EDADA@?FBHDFHBB@HNLD@HTB?BDB@L@FDBDDNBJDHDDBFFL??FNJP@H?PIb@?RADA@ADMLGLGV?NAJCRCN?@APB@@?DCJ?LCJGJMHMDALENILCJCFIHI????HID?RFL?XFH@N?JFJLDFDLDFD@F?DA@?@?J?B@DBNPLHXP??NDDDJHNFJDFDFFDDBBDD`@RTFPHJHLLFDHBH?F?DAHAD?D?FBPJj@NHFXVLHJDFFLLDDPPb@b@HDJD@?N@TJPJNJDHBDBDJZFPLPHPDFVVHLBBJ?J?PAHCHCZGPCFCLGLMFETKJKHIFIDEDC@?TGX?JBXB@?TANENGJGNEDAFEPGPM`@Oj@YLEHENIDA@?DCPIRI`@Wd@ULEJEPEHEFCVOHCRAVG@ARAJCNAJ?XCF?\\C\\CVEPERIPGPGJCBAVGNINONQHKRMRMLIJGHCDCVKXG^GJAJCPKFEFCFABB@D@B?H?B?FBHFB@?DAJEDGDIDKJa@DIJQHUFMDMDKBKBEBIJSNSR[BGDSDOFOD_@DMBMBOBO?ADQD_@H[Jm@BG@ELUHILMJIJGHE@AJGLMNOLSFIL[Tc@LYJSDG@AFKLg@PQPKDCJ?JBR?DEFKFEH@H@@?JBZDJAREFCDEHKDMBAHAN?JAHGFG@AFGJMZQNQHEVUXOHIFEFGHIBCTUXSNOHGLSVYNOJKDGFINUh@k@FIHMJGJGHIJITS@AXU\\]\\W\\STMJGFGDCTQNITSHKNSVYNSHKDM?AHOFIPMX[LK??`@WVOTO@ARMZY\\QDEDGLKNMNKRKBANIVMDCNOJQHGR[PQJMFMFK??JMTYPMXM@AZUPMLIJEFCFCTGVOPIVURWLKHGLIHABANCXGD?D@HFDDHRJn@FVDRBPDL@@HPBH?J@J?r@CR?F?RD\\DRFTBDBDBDDBD@@?F@HDDDJPHLD?DA@CBI@IDIDEDGHIJ@HIHADADADAB?@???@BFPDTFb@@NAF@J@FHXHPDLHXDRBJBL?@FRDT?HBN?DBR?J@J?N?p@E`@CXE\\???@E^Gh@AVERKZCTEd@E\\CR?H?B??ADKf@?HGx@M|@CHIZGTGTAFCFIRCLG`@CVELCHA@EHEHOb@GJIJGDCDADABABCHAFAL?H@NBNB^DPHRDNBPBDHHBFDJDHDJ@D??@DDLHXJp@@PARALADIPADAL?F@F?HALAJ?H@J?DBVBHDHH\\DP@L@H@F@L@^@HFJFLDN@H?D?BADABADGLCFAH?LADG\\A\\GPAF?LDN@J?HAL@LBNDV@DB\\Bd@@PDPD`@?HBXAFAHADCFAH?R?L?L?F?L@\\DX@ZDZ@L???FBNFLDLFf@@J?F@FBJ?@DRDLDPBVDTNp@HXH^FN@J@B?@?B?J?@AVAZ?DCZ?`@@PAN?f@@H?J@D?T@R?N?BALAV?^AN?JBHJV@@BDDBD?FED?DBF?HGHIJIBA@?B?@@BFFRLTJZBLDV@L?LBLFVJRFJ@H@D?B?@@H@b@?NANAFCFEVGNOXEJAFAPBt@?F?D?R?JCFSZGRGJCDA@CBCDAJ?R@J?VB^BP?D?@?B?D?T@LDF@F@L?ZAFCPCNEJMd@IXGRGNABIRKXIVIVUj@M`@MZGRAH??GRO\\AHETGRGRADERCNGVIb@CHAHAH?BCNCNK\\ELKVUh@Yb@INEJEFAD?@EJIVQh@Mb@MXMXSXEJEHA@?@A@?@GFGJIJELILURABCBEDIFMFMPEFEPGRA@OPGHGLGREP?P@HDP@FPtA@J?F?B?B??@@?H@NFh@?HBP?JDX@JD^?TAJ?V@P@N@F?DDNHTN\\L\\DJLXH^BN?TBLBJ@D@LBT@RBT?ZDTFZ@RDHPZHTFLB@@@FDDFP\\BN?JCLIZAHEFELCJK\\ADANANAH?DALALCd@ETAH@b@?L@J?R?\\Db@BV@D?@@HBJJ\\Bd@@|@Lz@@L@LBN@BDD",
+                                "elevationData": null,
+                                "indexedElevationData": "?objxuJgE_{m@gEobd@gE_jwCgE_qdBgE~_qAgE~f{CgE_dsSgEoaz\\gE_vxVgEoqjGgE_t`BgEo}@gEonTgE~iZgE~lsCgEntLgE_fcIgE_a`HgE_`kIgE_p}ZgEob~GgE_ehRgE_p`WgE_buFgEoj`EgEodkAgE_fiAgEoinBgE_cmAgEotLgE~tu@gE~rNgE~qy@gE~kaAgE_zuEgE_seKgE_eqFgE_q~IgEoneSgE_xsg@gE_g{CgEovpDgE_ry@gE_}tAgE_mmKgE_a}KgEowHgE~bjEgE~nzDgE~qpLgE~xcCgEo}wJgEoaiIgEnz{JgEn~lIgE~hbEgEn}@gEnwHgEn_h@gE~c|GgEotiCgEow|NgE_`_YgE_q~IgEocgVgEoacQgE_ycCgE_hpBgEnnTgEoh\\gE?gE_fiAgEou~AgE_|BgEom_AgEowbGgE_bxBgE_{dLgEou~AgE_xkHgE_pRgEoflJgEnwHgEnsw@gEo|k@gE?gE~lVgEnkXgEnyo@gE~f^gEoqjGgEom_AgE_msCgEozDgE~iZgEnbd@gEoe`@gEoyo@gEn}@gE~mhBgEntLgE~rNgE?gE~cb@gE~c_DgE~vyEgE~qvDgE~~{BgE~|tAgE~n}@gEnw_KgEo_bHgEoe}CgEnzDgE~pdBgEnqmCgEowHgE~cb@gE_yFgE~cb@gE~s`BgE~cb@gE_t`BgE_pfOgE_dvOgEoqjGgE~bjEgE~vyEgE~s`BgE_|BgEnqPgE~heAgE_db@gEobaDgE_}kMgE_q{MgEo_eDgEo`zBgEn`wFgEn{sEgEnqjGgEnjcAgE~bjEgEnu{EgE~c|GgE~w_XgE~`}KgEnvpDgE~v|AgEnh\\gEnljBgE~n}@gE_af@gE_af@gE~gpBgE~xcCgE?gEnp{@gEnvmHgEnd_QgEnqdOgEnqPgEouxIgEoo`JgE_plGgE_urDgE_g^gE_fiAgEosw@gEoqPgEntiCgE~rNgE_klBgEoljBgE_af@gEovpDgEozaCgE_zxAgE_skCgEoe}CgEodkAgE_pRgEotLgEozDgEonTgE_ieAgE_buFgE_t}EgEoz~FgEoaiIgE_etBgEnggAgE~v|AgE~v|AgE~lsCgE~_kIgE~meFgEnbfg@gEn}zFgE__|BgE_}qEgEop{@gEoaoAgE_|mZgE_af@gEndkAgE~arJgEnvgPgEnqjGgE~dtBgE~heAgEoh\\gEohyCgE_mpGgEoytc@gE_lxLgE_ry@gEocvBgEodeIgEo}zFgEojtTgE_vr^gE_{~SgEohvGgEobd@gEoqmCgE_||FgE_|_CgEoyfLgEo~fQgEonnGgE_`qAgEoyo@gE_~fDgE_}tAgE_ibEgE_~}OgE_f`MgEoafMgEor|IgE_cjEgEo`zBgE_ibEgEo}}BgEorbBgEobd@gE_mVgEo}@gE~cb@gEn}}BgE~bjEgE~~{BgE~heAgE~_qAgEnnTgE~bmAgE~`f@gE~s`BgEo_h@gEnyo@gEoh\\gEnnqCgEn}}BgEoe`@gEo~lIgEostDgE_hpBgEo__LgE_cjEgE_sNgEo~rAgEoh\\gEotLgEoe}CgEoocFgEoi_VgE_tbi@gEokzf@gE_v}y@gEojzLgEo}zFgEoocFgE_d_DgEnstDgE~lVgE~c_DgEnweCgE~rkCgE~bjEgEnpiXgEnsqHgE~olGgE~rhGgEnrbBgE?gEnnqCgEnocFgEoqPgE_skCgE_rvDgE_ry@gEoe`@gEotLgEnwHgE~uJgE~heAgEne`@gE_yFgEoqPgEozDgE_nhBgE_vJgEosw@gEohyCgEoxwEgE_ttQgE_je[gEo_eDgEo{jQgE_enJgEoaiIgEoldJgE_skCgE_g{CgEostDgEogdEgEoqmCgEo`tJgEo_|OgE_ulLgE_w|AgEo|hDgEoqmCgE_etBgE_`nEgEovs@gEozDgEozDgEonTgEoh\\gEoinBgE_ibEgEo~rAgEoggAgE_qdBgE_sNgE_sNgEoqPgE_ieAgE_nhBgE_msCgEo_bHgEozaCgE_bxBgEonnGgEojcAgEonqCgEofrBgE_bxBgEoqmCgE_skCgE_ycCgE_hpBgE_xnDgE_o}@gE_xkHgEoinBgE_||FgE_kfJgEoljBgE_mVgEng~LgE~jiFgEnxzAgE?gEnxzAgE~}fDgE~gpBgEnrbBgE~zm@gEozDgE_hpBgEo_bHgE__yFgEovmHgEo{pIgEod_QgEoafMgE_`hMgE_gxGgE_vaKgEohyCgEovpDgEojcAgE_laAgEoofBgE_zxAgE_o}@gE_msCgE~ugCgEnzDgE_}tAgE_urDgEoh\\gE_{jDgE_wyEgE_a`HgE~wnDgE~jlBgE_ry@gEoyo@gEoofBgE_{gHgEopoPgEo{jQgEoe`@gE~oiKgE~frOgE_db@gE~krTgEn_h@gE?gEodkAgE_ozDgEoqmCgE_klBgE_hmFgEnm_AgEnqub@gE~aoNgEnzDgEnhsKgEnbaDgEotLgE?gE~|qEgE~cb@gE_{m@gE_kzYgE_~cHgEowbGgE_{jDgEoqgKgEodkAgEomyHgE_g{CgEoprLgEofiNgEosw@gE_zoMgE_{dLgE_ziUgE_qrYgEo|bLgE_otLgEoqjGgE_fiAgEoljBgE_ieAgEnrbBgE~hbEgE~dtBgE_vJgE_pRgE?gE_af@gE_o}@gEorbBgEorbBgE_qdBgEo_eDgEoxwEgE_urDgEouxIgE_wyEgEoj`EgEofrBgE_|BgEojcAgEo_h@gE_{jDgE_rvDgEor|IgEomyHgE_msCgEou{EgEo_eDgEo_h@gE__|BgEo`zBgE_`qAgE_}tAgE_w|AgEo~oEgEo|eHgE_ulLgEovpDgE_ieAgEoggAgE_quUgE_`nEgEoalEgEo`wFgEog{PgE_zxAgE_hgNgEobrWgE_gf_@gEoyw_@gE_v~NgEomvLgE_g{CgE_rvDgEoggAgEowHgEnnqCgE~pdBgEnh\\gE_~i@gE_uoHgEoocFgE_eqFgEoaoAgEofoFgE_t`BgE~ezTgE~nnTgE~gmFgEnu{EgE~|nIgEnewKgE~iqKgEozDgEoh\\gEo__LgEohsKgEouuMgEowbGgE?gEolgFgE_jtGgE_caQgE_iyPgEo{mMgEne`@gEnweCgE~nzDgE~s`BgEnyiHgE~rNgEnwHgE~rNgE_jZgE_`qAgEoxzAgE_fiAgEoe`@gEo_h@gE_piKgE_ycCgE_jZgEoocFgE_t`BgE~v|AgE?gE~{BgEnqjGgE~ljOgEnfoFgEobaDgE_sNgEo{sEgE_rsHgEolaNgEomyHgE_||FgE_xnDgEoikFgEnjzLgE~ggNgEnqmCgEnzaCgE~rkCgEnr|IgEnpuHgEor_FgEnh\\gE_`kIgE_ry@gEoklOgE~bjEgE~gpBgE~n}@gE?gEnweCgEnfoFgEnv~[gE_cgIgE_zxAgEoyo@gEnh\\gEncvBgE~}fDgEonTgEn|k@gE_xq@gE~efEgE~xcCgE_cmAgE_l~DgEoqmCgE_nhBgEoe}CgEo__LgEoqdOgE_etBgE_cmAgE~bmAgEo~oEgEoweCgEnbd@gEnbaDgEnpuHgEnskPgEnenWgE~oiKgEndkAgEodkAgE~heAgE~n}@gEnhyCgE~whLgE~xFgE~paFgE~xcCgEnwHgEndhEgE~k~DgE~wq@gEntLgEonTgE~qsHgEntiCgE~`f@gE_t`BgEoaiIgEofiNgE_ztp@gEowyRgE_etBgEoryMgE__g^gE_syZgEocxi@gE__sNgEoh\\gEom_AgEoyo@gEou~AgEncvBgE~rNgE~s`BgE~wq@gE_cmAgEonnGgE_rsHgE_dyKgE_hpBgE_bxBgEoy`TgE_mpGgEo_bHgEoaoAgE_mVgE_`qAgEozDgEo}@gE~oRgE_mVgEnljBgEninBgEnqjGgEnrbBgEogdEgEouuMgE_ulLgEopxDgEoofBgEosw@gEoljBgE_skCgE_zuEgEomyHgEopuHgE_msCgE~gpBgEn~rAgE~bmAgEnp{@gEnaoAgE~}i@gE~rNgEnyo@gEovs@gEonTgEowHgE_jZgE_pRgE_pRgE_pRgEokXgEoe`@gEovs@gE_xnDgE_l~DgE_rvDgEozxNgEnxzAgE_nhBgEodkAgEoe}CgEolgFgE_||FgEouxIgE_caQgEodeIgE_owHgEozaCgE?gE~qvDgEnkXgEnqPgE_|_CgEopxDgEow_KgE_d|GgEosnLgEofoFgEohyCgE~gpBgEnqdOgEnxwEgEn~oEgE~iZgEntLgEntLgE_~i@gEoz~FgEofrBgEoflJgE_qaFgE_{gHgEopoPgEonkKgE_i_IgEo}kZgEoihJgE_`qAgEnkXgE~oRgE_yFgEo}@gE_poCgEo}}BgEotLgE~jiFgEo~fQgEo{pIgE_kiFgEoinBgEom_AgE_d_DgE_nhBgE~qy@gE~bmAgEn~rAgE~xFgEo|hDgE_nhBgEob~GgEoz{JgEo_h@gE_}tAgE_o}@gE_o}@gEop{@gE~uJgEoezGgE_jwCgEob{KgE_enJgEo_eDgEogaIgEomdd@gE_n|QgE_v{RgEof}]gEnyo@gEnyo@gE~wq@gEnfrBgEnqmCgEnh\\gE?gEoalEgE_||FgE_|vNgEo|k@gEobd@gE_laAgE~lsCgE~gmFgEnstDgEnocFgEne`@gE~~{BgEn{vAgE_l~DgEom|DgE~n}@gE~lsCgEn~rAgE~fxGgEnezGgEnseXgEnhvGgEnrpYgE__|BgE_sNgEnljBgE~|tAgE~paFgE~}fDgE~gpBgE~rkCgEoh\\gEogdEgE_glWgEo}tNgE_`bUgEo|yWgEo`|i@gE_kiFgEozaCgEonqCgEotiCgEoggAgE_o}@gE_ieAgE_}tAgE_fiAgE_nhBgE?gE__vJgE_cmAgE_poCgE_vJgEn}@gEndkAgE~uJgEntLgEotiCgEo~oEgE_xnDgE_zuEgEo~lIgEotfGgE_kcNgE_tzIgEonnGgEopxDgEow_KgEn}}BgE_|BgE~cb@gEnxtIgE?gE?gEnggAgE~kaAgEo|hDgE_l~DgEosw@gE_p`WgE_|yJgEolgFgEofrBgEo{sEgEoh~f@gE_ahg@gE_rmPgEor_FgE_q{MgEoxzAgE_db@gE~xFgE~f{CgE~jlBgEoh\\gEnlgFgEnzaCgEnqjGgE_t`BgEntLgE_qdBgE_twMgEo|bLgE_buFgEoj`EgE_cdMgEog~LgE?gE_glWgE_jqKgE_seKgEoieNgE_`hMgE_k}UgEosqHgEotcKgEoqgKgEoe}CgE_mpGgE_w|AgE__jZgE_l~DgE_jhWgEoldJgE_neFgEoeqSgEoibRgEo~iMgE_}tAgEoj`EgEogdEgE~yxAgEnh\\gE~iZgE~}fDgE~{_CgEo|k@gE_`kIgE__jZgE_v{RgEocsFgEo}}BgE_rvDgEo}tNgE_l~DgE_laAgEntLgE_xq@gEoxzAgE_~i@gE~qy@gE~pdBgE?gE_~i@gEowHgEoggAgE_hpBgEo{vAgEnzDgEoofBgEosw@gEoylDgE?gEoofBgEnzDgE~f^gEn}@gE?gEnwHgEn_bHgE~axBgE~{BgEnyo@gE~zm@gEn`qNgE~rNgEnb{KgE~zgHgE~reKgE~oiKgEn`zBgEozDgEommXgEoweCgEotiCgE_hmFgE_}tAgE~jlBgE~jlBgE~|qEgE~_nEgE?gEnyiHgEowHgE_pRgE_ry@gE~zm@gE_af@gEovs@gEne`@gEnweCgE_pRgEo}}BgE_enJgEo`tJgEosvk@gEoqmCgE_ry@gEonTgE_db@gEozaCgE_klBgEodhEgEotiCgEoqmCgE_owHgE_`eQgEonkKgEodhEgE_boNgEobfg@gEok|mAgE_gwr@gE_poCgEor|IgE_cmAgE_mpGgE?gEo_p_@gE__yFgEotiCgE_af@gEo|k@gE~}i@gE_boNgEoewKgE?gE_neFgEovjLgEoz{JgE_ibEgEosqHgEomvLgE_q{MgE_msCgEo}@gEosw@gEovs@gE_eqFgE_fcIgEow_KgE_`gx@gE?gEosw@gE_`qAgEoikFgEoyiHgEowHgEo`wFgE_cmAgEo_bHgE_v~NgEoo`JgE_i{w@gEo}h^gE_obd@gE_{gHgE__pRgEonTgEoggAgE_laAgEne`@gE_msCgE_af@gE?gEonTgE_cjEgE_ehRgEomdd@gEokiSgE_||FgE_seKgEoxwEgEonvf@gEo}h^gEozoZgEo{jQgE_xePgE_cjEgE_{gHgE_uoHgE_ekNgE_y}JgE_jwCgE_poCgEofrBgEorbBgEoh\\gEom_AgE_zlQgE_urDgE_urDgEocsFgE_{gHgEodv\\gE_xnDgEod|TgE_|vNgEohvGgEovpDgEopxDgEoyiHgEopxDgE_plGgEoryMgEoxqMgEo}kZgE_boNgE_cjEgEor|IgE_skCgE_skCgE_o}@gE_cjEgEndkAgE_owHgE_{dLgE_nbJgE_jqKgEo`wFgEoezGgE_hpBgEoprLgE_nbJgEoqjGgEohyCgE_zuEgE_qxQgEou{EgE_qla@gE_neFgEoyfLgEo}zFgE_seKgE_grOgE_mmKgE_pfOgEoihJgE_wvIgEompTgEoryMgEofiNgE_fcIgE_owHgE_xkHgEoprLgEoewKgE_xsg@gE_pcSgE_}kMgE_uoHgEoeec@gEo}@gEom_AgEo~oEgE_qxQgE_jwCgE_|_CgEo_{z@gEoxqMgEo}bf@gEohsKgE_rpLgE_n_NgE_hgNgE_q{MgE_{x[gEow_KgEoezGgEostDgE_~wWgEo}wJgE_skCgE~tu@gEotLgEnfrBgE~|tAgE_lvbBgEonruAgE_asbAgEojzLgE_~cHgE_ibEgE_ffEgEor|IgEosw@gEosw@gE_w|AgEocvBgE_brJgEo|eHgE_rvDgE_ibEgE_rvDgE_piKgEogaIgE~s`BgE_ieAgE_jZgE_kcNgEoplTgEof}]gE_wpQgEon|^gEo`nRgEoguXgEoa}XgE_ibEgE~wkHgE~eiAgEnikFgEoikFgE_fiAgE_xkHgE~hbEgEna}XgEnguXgEn`nRgEnn|^gE~vpQgEnf}]gEnplTgE~jcNgE~iZgE~heAgE_t`BgEngaIgE~oiKgE~qvDgE~hbEgE~qvDgEn|eHgE~arJgEncvBgE~v|AgEnsw@gEnsw@gEnr|IgE~efEgE~hbEgE~}cHgEnjzLgE~`sbAgEnnruAgE~kvbBgE_}tAgEofrBgEntLgE_uu@gE~rkCgEn}wJgE~}wWgEnstDgEnezGgEnw_KgE~zx[gE~p{MgE~ggNgE~m_NgE~qpLgEnhsKgEn}bf@gEnxqMgEn_{z@gE~{_CgE~iwCgE~pxQgEn~oEgEnm_AgEn}@gEneec@gE~toHgE~|kMgE~ocSgE~wsg@gEnewKgEnprLgE~wkHgE~nwHgE~ecIgEnfiNgEnryMgEnmpTgE~vvIgEnihJgE~ofOgE~lmKgE~frOgE~reKgEn}zFgEnyfLgE~meFgE~pla@gEnu{EgE~pxQgE~yuEgEnhyCgEnqjGgE~mbJgEnprLgE~gpBgEnezGgEn`wFgE~iqKgE~mbJgE~zdLgE~nwHgEodkAgE~bjEgE~n}@gE~rkCgE~rkCgEnr|IgE~bjEgE~aoNgEn}kZgEnxqMgEnryMgE~olGgEnpxDgEnyiHgEnpxDgEnvpDgEnhvGgE~{vNgEnd|TgE~wnDgEndv\\gE~zgHgEncsFgE~trDgE~trDgE~ylQgEnm_AgEnh\\gEnrbBgEnfrBgE~ooCgE~iwCgE~x}JgE~dkNgE~toHgE~zgHgE~bjEgE~wePgEn{jQgEnzoZgEn}h^gEnnvf@gEnxwEgE~reKgE~{|FgEnkiSgEnmdd@gE~dhRgE~bjEgEnnTgE?gE~`f@gE~lsCgEoe`@gE~kaAgEnggAgEnnTgE~~oRgE~zgHgE~nbd@gEn}h^gE~h{w@gEno`JgE~u~NgEn_bHgE~bmAgEn`wFgEnwHgEnyiHgEnikFgE~_qAgEnsw@gE?gE~_gx@gEnw_KgE~ecIgE~dqFgEnvs@gEnsw@gEn}@gE~lsCgE~p{MgEnmvLgEnsqHgE~hbEgEnz{JgEnvjLgE~meFgE?gEnewKgE~aoNgE_~i@gEn|k@gE~`f@gEntiCgE~~xFgEn_p_@gE?gE~lpGgE~bmAgEnr|IgE~ooCgE~fwr@gEnk|mAgEnbfg@gE~aoNgEndhEgEnnkKgE~_eQgE~nwHgEnqmCgEntiCgEndhEgE~jlBgEnzaCgE~cb@gEnnTgE~qy@gEnqmCgEnsvk@gEn`tJgE~dnJgEn}}BgE~oRgEoweCgEoe`@gEnvs@gE~`f@gE_{m@gE~qy@gE~oRgEnwHgEoyiHgE?gE_`nEgE_}qEgE_klBgE_klBgE~|tAgE~gmFgEntiCgEnweCgEnmmXgEnzDgEo`zBgE_piKgE_seKgE_{gHgEob{KgE_sNgEo`qNgE_{m@gEoyo@gE_|BgE_bxBgEo_bHgEowHgE?gEo}@gE_g^gEozDgEnofBgE?gEnylDgEnsw@gEnofBgEozDgEn{vAgE~gpBgEnggAgEnwHgE~}i@gE?gE_qdBgE_ry@gE~}i@gEnxzAgE~wq@gEotLgE~kaAgE~k~DgEn}tNgE~qvDgEn}}BgEncsFgE~u{RgE~~iZgE~_kIgEn|k@gE_|_CgE_~fDgE_jZgEoh\\gE_zxAgEngdEgEnj`EgE~|tAgEn~iMgEnibRgEneqSgE~meFgEnldJgE~ihWgE~k~DgE~~iZgE~v|AgE~lpGgEne}CgEnqgKgEntcKgEnsqHgE~j}UgE~_hMgEnieNgE~reKgE~iqKgE~flWgE?gEng~LgE~bdMgEnj`EgE~auFgEn|bLgE~swMgE~pdBgEotLgE~s`BgEoqjGgEozaCgEolgFgEnh\\gE_klBgE_g{CgE_yFgE~cb@gEnxzAgE~p{MgEnr_FgE~qmPgE~`hg@gEnh~f@gEn{sEgEnfrBgEnlgFgE~{yJgE~o`WgEnsw@gE~k~DgEn|hDgE_laAgEoggAgE?gE?gEoxtIgE_db@gE~{BgEo}}BgEnw_KgEnpxDgEnnnGgE~szIgE~jcNgEntfGgEn~lIgE~yuEgE~wnDgEn~oEgEntiCgEotLgE_vJgEodkAgEo}@gE~uJgE~ooCgE~bmAgE~~uJgE?gE~mhBgE~eiAgE~|tAgE~heAgE~n}@gEnggAgEntiCgEnnqCgEnzaCgE~jiFgEn`|i@gEn|yWgE~_bUgEn}tNgE~flWgEngdEgEnh\\gE_skCgE_hpBgE_~fDgE_qaFgE_}tAgEoljBgE~rNgE~~{BgEorpYgEohvGgEoseXgEoezGgE_gxGgEo~rAgE_msCgE_o}@gEnm|DgE~k~DgEo{vAgE__|BgEoe`@gEoocFgEostDgE_hmFgE_msCgE~kaAgEnbd@gEn|k@gE~{vNgE~{|FgEnalEgE?gEoh\\gEoqmCgEofrBgE_xq@gEoyo@gEoyo@gEnf}]gE~u{RgE~m|QgEnmdd@gEngaIgEn_eDgE~dnJgEnb{KgE~iwCgEnezGgE_vJgEnp{@gE~n}@gE~n}@gE~|tAgEn_h@gEnz{JgEnb~GgE~mhBgEn|hDgE_yFgEo~rAgE_cmAgE_ry@gE~mhBgE~c_DgEnm_AgEninBgE~jiFgEn{pIgEn~fQgE_kiFgEntLgEn}}BgE~ooCgEn}@gE~xFgE_pRgEokXgE~_qAgEnihJgEn}kZgE~h_IgEnnkKgEnpoPgE~zgHgE~paFgEnflJgEnfrBgEnz~FgE~}i@gEotLgEotLgE_jZgEo~oEgEoxwEgEoqdOgE_hpBgEnhyCgEnfoFgEnsnLgE~c|GgEnw_KgEnpxDgE~{_CgEoqPgEokXgE_rvDgE?gEnzaCgE~nwHgEndeIgE~baQgEnuxIgE~{|FgEnlgFgEne}CgEndkAgE~mhBgEoxzAgEnzxNgE~qvDgE~k~DgE~wnDgEnvs@gEne`@gEnkXgE~oRgE~oRgE~oRgE~iZgEnwHgEnnTgEnvs@gEoyo@gE_sNgE_~i@gEoaoAgEop{@gE_cmAgEo~rAgE_hpBgE~lsCgEnpuHgEnmyHgE~yuEgE~rkCgEnljBgEnsw@gEnofBgEnpxDgE~tlLgEnuuMgEngdEgEorbBgEoqjGgEoinBgEoljBgE~lVgE_pRgEn}@gEnzDgE~_qAgE~lVgEnaoAgEn_bHgE~lpGgEny`TgE~axBgE~gpBgE~cyKgE~qsHgEnnnGgE~bmAgE_xq@gE_t`BgE_sNgEocvBgEnu~AgEnyo@gEnm_AgEnh\\gE~~rNgEncxi@gE~ryZgE~~f^gEnryMgE~dtBgEnwyRgE~ytp@gEnfiNgEnaiIgE~s`BgE_af@gEotiCgE_rsHgEnnTgEotLgE_xq@gE_l~DgEodhEgEowHgE_ycCgE_qaFgE_yFgE_xhLgEohyCgE_o}@gE_ieAgEndkAgEodkAgE_piKgEoenWgEoskPgEopuHgEobaDgEobd@gEnweCgEn~oEgE_cmAgE~bmAgE~dtBgEnqdOgEn__LgEne}CgE~mhBgEnqmCgE~k~DgE~bmAgE_ycCgE_ffEgE~wq@gEo|k@gEnnTgE_~fDgEocvBgEoh\\gEnyo@gE~yxAgE~bgIgEov~[gEofoFgEoweCgE?gE_o}@gE_hpBgE_cjEgEnklOgE~qy@gE~_kIgEoh\\gEnr_FgEopuHgEor|IgE_skCgEozaCgEoqmCgE_hgNgEojzLgEnikFgE~wnDgE~{|FgEnmyHgEnlaNgE~qsHgEn{sEgE~rNgEnbaDgEofoFgE_mjOgEoqjGgE_|BgE?gE_w|AgE~s`BgEnocFgE~iZgE~xcCgE~oiKgEn_h@gEne`@gE~eiAgEnxzAgE~_qAgE~iZgE_sNgEowHgE_sNgEoyiHgE_t`BgE_ozDgEoweCgEoe`@gEn{mMgE~hyPgE~baQgE~itGgEnlgFgE?gEnwbGgEnuuMgEnhsKgEn__LgEnh\\gEnzDgE_jqKgEoewKgE_}nIgEou{EgE_hmFgE_onTgE_fzTgE~s`BgEnfoFgEnaoAgE~dqFgEnocFgE~toHgE~}i@gEoh\\gE_qdBgEonqCgEnwHgEnggAgE~qvDgE~f{CgEnmvLgE~u~NgEnyw_@gE~ff_@gEnbrWgE~ggNgE~yxAgEng{PgEn`wFgEnalEgE~_nEgE~puUgEnggAgE~heAgEnvpDgE~tlLgEn|eHgEn~oEgE~v|AgE~|tAgE~_qAgEn`zBgE~~{BgEn_h@gEn_eDgEnu{EgE~lsCgEnmyHgEnr|IgE~qvDgE~zjDgEn_h@gEnjcAgE~{BgEnfrBgEnj`EgE~vyEgEnuxIgE~trDgEnxwEgEn_eDgE~pdBgEnrbBgEnrbBgE~n}@gE~`f@gE?gE~oRgE~uJgE_etBgE_ibEgEorbBgE~heAgEnljBgE~eiAgEnqjGgE~ntLgEn|bLgE~prYgE~yiUgE~zdLgE~yoMgEnsw@gEnfiNgEnprLgE~f{CgEnmyHgEndkAgEnqgKgE~zjDgEnwbGgE~}cHgE~jzYgE~zm@gE_db@gE_}qEgE?gEntLgEobaDgEohsKgEozDgE_boNgEoqub@gEom_AgE~gmFgE~jlBgEnqmCgE~nzDgEndkAgE?gEo_h@gE_lrTgE~cb@gE_grOgE_piKgEne`@gEn{jQgEnpoPgE~zgHgEnofBgEnyo@gE~qy@gE_klBgE_xnDgE~``HgE~vyEgE~zjDgEnh\\gE~trDgE~|tAgEozDgE_vgCgE~lsCgE~n}@gE~yxAgEnofBgE~kaAgEnjcAgEnvpDgEnhyCgE~uaKgE~fxGgE~_hMgEnafMgEnd_QgEn{pIgEnvmHgE~~xFgEn_bHgE~gpBgEnzDgE_{m@gEorbBgE_hpBgE_~fDgEoxzAgE?gEoxzAgE_kiFgEog~LgE~lVgEnljBgE~jfJgE~{|FgEninBgE~wkHgE~n}@gE~wnDgE~gpBgE~xcCgE~rkCgEnqmCgE~axBgEnfrBgEnnqCgEnjcAgEnnnGgE~axBgEnzaCgEn_bHgE~lsCgE~mhBgE~heAgEnqPgE~rNgE~rNgE~pdBgEnggAgEn~rAgE~hbEgEninBgEnh\\gEnnTgEnzDgEnzDgEnvs@gE~_nEgE~dtBgEnqmCgEn|hDgE~v|AgE~tlLgEn_|OgEn`tJgEnqmCgEngdEgEnstDgE~f{CgE~rkCgEnldJgEnaiIgE~dnJgEn{jQgEn_eDgE~ie[gE~stQgEnxwEgEnhyCgEnsw@gE~uJgE~mhBgEnzDgEnqPgE~xFgEoe`@gE_ieAgE_vJgEowHgEntLgEne`@gE~qy@gE~qvDgE~rkCgEnqPgEoocFgEonqCgE?gEorbBgE_shGgE_plGgEosqHgEopiXgE_cjEgE_skCgEoweCgE_d_DgE_mVgEostDgE~c_DgEnocFgEn}zFgEnjzLgE~u}y@gEnkzf@gE~sbi@gEni_VgEnocFgEne}CgEntLgEnh\\gEn~rAgE~rNgE~bjEgEn__LgE~gpBgEnstDgEn~lIgEne`@gEo}}BgEonqCgEnh\\gEoyo@gEn_h@gE_t`BgE_af@gE_cmAgEonTgE_`qAgE_ieAgE__|BgE_cjEgEo}}BgE_db@gEn}@gE~lVgEnbd@gEnrbBgEn}}BgE~hbEgEn`zBgE~bjEgEnr|IgEnafMgE~e`MgE~}}OgE~hbEgE~|tAgE~}fDgEnyo@gE~_qAgEnnnGgEn~fQgEnyfLgE~{_CgE~{|FgEnqmCgEnbd@gEnhvGgE~z~SgE~ur^gEnjtTgEn}zFgEndeIgEncvBgE~qy@gE~kxLgEnytc@gE~lpGgEnhyCgEnh\\gE_ieAgE_etBgEoqjGgEovgPgE_brJgEodkAgE~`f@gE~{mZgEnaoAgEnp{@gE~|qEgE~~{BgEo}zFgEobfg@gE_neFgE_`kIgE_msCgE_w|AgE_w|AgEoggAgE~dtBgEnaiIgEnz~FgE~s}EgE~auFgE~heAgEnnTgEnzDgEntLgE~oRgEndkAgEne}CgE~rkCgE~yxAgEnzaCgEnvpDgE~`f@gEnljBgE~jlBgE_sNgEotiCgEnqPgEnsw@gE~eiAgE~f^gE~trDgE~olGgEno`JgEnuxIgEoqPgEoqdOgEod_QgEovmHgEop{@gE?gE_ycCgE_hpBgE~`f@gE~`f@gE_o}@gEoljBgEoh\\gE_w|AgEovpDgE_a}KgE_x_XgE_d|GgEou{EgE_cjEgEojcAgEoqjGgEo{sEgEo`wFgEn`zBgEn_eDgE~p{MgE~|kMgEnbaDgE~cb@gE_ieAgEoqPgE~{BgE_t`BgE_wyEgE_cjEgEnqjGgE~cvOgE~ofOgE~s`BgE_db@gE_t`BgE_db@gE~xFgE_db@gEnwHgEoqmCgE_qdBgEozDgEne}CgEn_bHgEow_KgE_o}@gE_}tAgE__|BgE_rvDgE_wyEgE_d_DgE_db@gE?gE_sNgEotLgE_nhBgEo}@gEnyo@gEne`@gEobd@gE_jZgEnzDgE~lsCgEnm_AgEnqjGgE_g^gEoyo@gEokXgE_mVgE?gEn|k@gEosw@gEowHgEnflJgE~oRgE~wkHgEnu~AgE~zdLgE~axBgEnwbGgEnm_AgE~{BgEnu~AgE~eiAgE?gEnh\\gEonTgE~gpBgE~xcCgEnacQgEncgVgE~p~IgE~__YgEnw|NgEntiCgE_d|GgEo_h@gEowHgEo}@gE_ibEgEo~lIgEoz{JgEnaiIgEn}wJgE_ycCgE_rpLgE_ozDgE_cjEgEnwHgE~`}KgE~lmKgE~|tAgE~qy@gEnvpDgE~f{CgE~wsg@gEnneSgE~p~IgE~dqFgE~reKgE~yuEgE_laAgE_ry@gE_sNgE_uu@gEntLgE~bmAgEninBgE~eiAgEndkAgEnj`EgE~auFgE~o`WgE~dhRgEnb~GgE~o}ZgE~_kIgE~``HgE~ecIgEotLgE_msCgE_jZgEnnTgEn}@gE~s`BgEnqjGgE~uxVgEnaz\\gE~csSgE_g{CgE_`qAgE~pdBgE~iwCgEnbd@gE~zm@"
+                            },
+                            "lineGeoStats": {
+                                "distanceTotal": 0.0,
+                                "elevationStart": null,
+                                "elevationEnd": null,
+                                "elevationGain": 0.0,
+                                "elevationLoss": 0.0,
+                                "elevationMax": null,
+                                "elevationMin": null
+                            }
+                        }
+                    ],
+                    "lineGeoStats": {
+                        "distanceTotal": 0.0,
+                        "elevationStart": null,
+                        "elevationEnd": null,
+                        "elevationGain": 0.0,
+                        "elevationLoss": 0.0,
+                        "elevationMax": null,
+                        "elevationMin": null
+                    }
+                }
+            ],
+            "waypoints": [
+                {
+                    "id": 249682323,
+                    "name": "Helen Lake",
+                    "name_lang": "en-US",
+                    "name_original": "Helen Lake",
+                    "description": null,
+                    "description_lang": null,
+                    "description_original": null,
+                    "order": 2,
+                    "location": {
+                        "latitude": 51.6840877,
+                        "longitude": -116.4134344
+                    },
+                    "at_map_id": 153430907,
+                    "enable_translations": true,
+                    "waypointDisplayProperty": {
+                        "showTitle": false
+                    },
+                    "waypointCategory": null,
+                    "contentPrivacy": null,
+                    "isGlobal": null,
+                    "user": null
+                },
+                {
+                    "id": 249682324,
+                    "name": "Start of scramble",
+                    "name_lang": "en-US",
+                    "name_original": "Start of scramble",
+                    "description": null,
+                    "description_lang": null,
+                    "description_original": null,
+                    "order": 3,
+                    "location": {
+                        "latitude": 51.6907623,
+                        "longitude": -116.4128434
+                    },
+                    "at_map_id": 153430907,
+                    "enable_translations": true,
+                    "waypointDisplayProperty": {
+                        "showTitle": false
+                    },
+                    "waypointCategory": null,
+                    "contentPrivacy": null,
+                    "isGlobal": null,
+                    "user": null
+                },
+                {
+                    "id": 249682325,
+                    "name": "Summit",
+                    "name_lang": "en-US",
+                    "name_original": "Summit",
+                    "description": null,
+                    "description_lang": null,
+                    "description_original": null,
+                    "order": 4,
+                    "location": {
+                        "latitude": 51.6998444,
+                        "longitude": -116.4170443
+                    },
+                    "at_map_id": 153430907,
+                    "enable_translations": true,
+                    "waypointDisplayProperty": {
+                        "showTitle": false
+                    },
+                    "waypointCategory": null,
+                    "contentPrivacy": null,
+                    "isGlobal": null,
+                    "user": null
+                }
+            ],
+            "mapPhotos": [],
+            "metadata": {
+                "created": "2026-07-11T03:41:39Z",
+                "updated": "2026-07-13T21:49:24Z",
+                "status": "A",
+                "source": 1046,
+                "timezone": null,
+                "cursor": "eyJjcmVhdGVkX2F0IjoiMjAyNi0wNy0xMSAwMzo0MTozOSIsImlkIjozOTg1OTM3NzcsInJhdGluZyI6bnVsbH0="
+            },
+            "estimatedTimeToComplete": {
+                "value": "7–8",
+                "unit": "hr"
+            }
+        }
+    ],
+    "meta": {
+        "status": "ok",
+        "items": 1,
+        "timestamp": "2026-09-01T21:05:15Z"
+    },
+    "pageInfo": null
+}

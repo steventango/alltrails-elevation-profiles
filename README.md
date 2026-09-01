@@ -6,6 +6,7 @@ Compare relative elevation change vs distance for Alberta hikes, styled like All
 - Folding Mountain
 - Sulphur Skyline
 - Morro Peak
+- Cirque Peak (via Helen Lake)
 - Hidden Valley
 
 Elevation is **relative to the trailhead** (all series start at `0 m`). Distance is scaled to each map’s AllTrails `distanceTotal`.
@@ -15,6 +16,7 @@ Elevation is **relative to the trailhead** (all series start at `0 m`). Distance
 | Trail | Token | Hex |
 | --- | --- | --- |
 | Folding Mountain | `--color-brand-onyx` | `#161f13` |
+| Cirque Peak | `--color-purple-500` | `#ac7adf` |
 | Sulphur Skyline | `--color-green-500 | `#4da330`` |
 | Morro Peak | `--color-blue-500` | `#4c8bf9` |
 | Hidden Valley | `--color-yellow-400` | `#edb326` |
@@ -46,6 +48,7 @@ AllTrails map JSON exports live in `data/`:
 - `folding-mountain.json`
 - `sulphur-skyline.json`
 - `morro-peak.json`
+- `cirque-peak.json`
 - `hidden-valley.json`
 
 ## Run

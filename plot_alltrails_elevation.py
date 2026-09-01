@@ -43,6 +43,7 @@ TEXT_PRIMARY = "#161f13"  # --color-brand-onyx / text-primary
 # Multi-series line colors from brand + green scale
 COLORS = {
     "Folding Mountain": "#161f13",  # brand-onyx
+    "Cirque Peak via Helen Lake Trail": "#ac7adf",  # purple-500
     "Sulphur Skyline Trail": "#4da330",  # green-500
     "Morro Peak": "#4c8bf9",  # blue-500
     "Hidden Valley": "#edb326",  # yellow-400
@@ -50,6 +51,7 @@ COLORS = {
 
 TRAIL_FILES = [
     ("Folding Mountain", "folding-mountain.json"),
+    ("Cirque Peak via Helen Lake Trail", "cirque-peak.json"),
     ("Sulphur Skyline Trail", "sulphur-skyline.json"),
     ("Morro Peak", "morro-peak.json"),
     ("Hidden Valley", "hidden-valley.json"),
@@ -156,7 +158,10 @@ def load_trail(path: Path):
 
 
 def short_name(name: str) -> str:
-    return name.replace(" Trail", "")
+    name = name.replace(" Trail", "")
+    if name.startswith("Cirque Peak"):
+        return "Cirque Peak"
+    return name
 
 
 def main():
