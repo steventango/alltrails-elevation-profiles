@@ -1,0 +1,186 @@
+{
+    "maps": [
+        {
+            "id": 317853722,
+            "name": "Folding Mountain",
+            "description": null,
+            "description_lang": null,
+            "description_original": null,
+            "description_source": null,
+            "presentationType": "map",
+            "slug": "trail-planner-map-42998cf-90",
+            "created_at": "2025-06-04T16:27:26Z",
+            "timezone": null,
+            "location": {
+                "postalCode": null,
+                "city": "Brule",
+                "region": "AB",
+                "country": "CA",
+                "country_id": 139,
+                "latitude": "53.24494",
+                "longitude": "-117.78111"
+            },
+            "bounds": {
+                "latitudeTopLeft": "53.24494",
+                "latitudeBottomRight": "53.21198",
+                "longitudeTopLeft": "-117.78701",
+                "longitudeBottomRight": "-117.70452"
+            },
+            "trailId": 10272948,
+            "activity": null,
+            "rating": null,
+            "difficulty": null,
+            "comment": null,
+            "obstacles": null,
+            "ratingAttributes": [],
+            "infoAttributes": [],
+            "user": null,
+            "dataUid": null,
+            "associatedTrailReviewId": null,
+            "routeType": null,
+            "originalAtMapId": 317853706,
+            "private": null,
+            "contentPrivacy": "urn:alltrails:visibility:public",
+            "hidden": null,
+            "popularity": null,
+            "summaryStats": {
+                "duration": 421,
+                "updatedAt": "2025-12-19T03:11:34Z",
+                "elevationMax": 2115,
+                "distanceTotal": 16953.62,
+                "elevationGain": 1150,
+                "elevationLoss": 1151
+            },
+            "profilePhotoId": null,
+            "photoCount": 0,
+            "splits": null,
+            "routes": [
+                {
+                    "id": 1,
+                    "sequenceNum": 1,
+                    "status": "A",
+                    "description": null,
+                    "name": null,
+                    "rating": null,
+                    "trailId": null,
+                    "location": {
+                        "postalCode": null,
+                        "city": "Brule",
+                        "region": "AB",
+                        "country": "CA",
+                        "country_id": 139,
+                        "latitude": "53.24494",
+                        "longitude": "-117.78111"
+                    },
+                    "bounds": {
+                        "latitudeTopLeft": "53.24494",
+                        "latitudeBottomRight": "53.21198",
+                        "longitudeTopLeft": "-117.78701",
+                        "longitudeBottomRight": "-117.70452"
+                    },
+                    "createdAt": null,
+                    "updatedAt": null,
+                    "timezone": null,
+                    "lineSegments": [
+                        {
+                            "id": 10001,
+                            "sequenceNum": 1,
+                            "status": "A",
+                            "polyline": {
+                                "pointsData": "{k~cI|b{mUbCbCFFFFFHLLFFFFDJDHFHHJHLHJFFFLHJHJJLHHHLFJDHDJBLDLBNBNDNBLDTDPDPBLDPFLDJHLDHFJHLDJFLHTFTBPBRBNFLHHFJFHDFrAdBHHFFJLFJFHFFFHLJFHFHPTFFFHFJLRHJHPBLFJDLFHJFFBJ?FIBS@O@ODMHGDK@SBQBMHCH?FHFBHGHAHDHEFIFOFOFODKHWBODM@SBS@Q?O@SDS@SBMBQBODUDODSFKDKFGHGFKFKFCH@J?FEFI?APYDMH?L?H?HIDOBO@QBQBMDMDIFGJILIJEHAHIJGHGFOFQBK?UBQBOHKDOAUAMAUFQHKFGFMBO?O@OBSDM@Q@O@O@OBO@ODSDODM?OD_@@Q@QDQBO?O?Q@ODWDO?O?S?QCMCMAQAWAMCa@AYAU?WJEH@FHFFFFHFLBHCHIHIFIFKDKDQDKDMBS@S?O?S@MDM@_@AY?i@A[@[HQHQ??Lk@?O?S?ODMFM@SBM@ODODIDKDM?Q@QBMBMDMDUBO@Q@WAQEMEMEM?Q@U@]@OCUEUAO?OBUFKFMFQDKFS@M@O@QBSDYBYFYFQDS?SASFKBOAO?QAMEOAOCS@O@O?O@SBQ@M?YBSBWBQ@SFY?SBQ@M?W?OEMCQAOAQ@QBQDMBSDO@M?UEMEKEOCQAMEMGEKAK?IAIEEIAOBODQDMBQBS@O@QFSHQHQDIDQ@S@W?OAWCMEUEMGGIOCS?QCOGKGIES?Q@Q?SCKIEGBI@I?CO?O?KL{AGKI?KBI?I?I@IC?OBM?QAOGEI@IDI@IAEICMAO?Q@QDMBKEOCKAOAO?Q?UAQ?OCOAOEKGMGIGKCQ?Q?Q@S?O?Q@Q@OBODIHEH@FBHBH@J?NGDKBU?QFKFGFODIDSBS@QFMDMDKBQ@Q@QBODMDMFGNQHKFIHGHEHGFCHOBOAO?QBOFM?Q?O?Q@MFKHEFEHMFKDWBOBM@QDQBO@MDUFSHODIJy@DWDMFIDKLQDGPIHGHKDS@SBQ?UDMDQ@Q@S?QCSEOGMCM@WDMJGLKBOHSDKDMLYFQDMDQBOBO@a@Ba@Ls@F[@OBUH]@WBc@@k@D[B{@DeAF{@Fa@FMFQFINQFMDKL]HS?[?U@QDIHGLGJIHIFMFO@CTo@HIDGFGHMDINUDMDKDMDQ@Q?OBQBMFMDGFIFMFOHYBM?Q@MDIHMDSBQ?U@UBW?QBUBOBSBKFMHKFOHQDIHOJWDIJKJMHEJGJEFCHEH?PEJAH?J?JAJEHEHIFODM@WDUDOFQFUDQ?SBY?S?Q?S@YDYDQ@W@OBOBQBOBWBM??Ro@BIFQFS@OBQBOHQDIHGHGFOFKDKDQDMFKDMFODSF]@QBOBOBMBSBS@SBWDKDUBMDM@O@O?QBMBODKFWFUDIHEFGFGFIFODODKBMDUBQBSBSDOFMFIFQFMBO@M?SBO@QBMDKDKDQJSDKFKDKHMFODI@O@O@MCYAQICKAGCGEEKAW?OEOCMCQ?Q?U?UBO@MBUDMBOFQDQDODMFSDKBODQBQ@UBMDUDMFQ@GTw@DODKFOHSDIFKFMDOHON_@FMHOFQFKFQHOHKFQFKJOFKHKHMFIDKFSBW?YBYHQJMFGJOHSFODS@MBODKJCPCJCLCLMHQFUBWDOBO@OBUDQBMBQLi@BSDWBM@MDQBO?S?UCSCOCUAO?QCSCYAYAOAUA_@AO?Q?Q?O?Y?Q?Q?Q?WBW@M@SDUDWBSDWFODMLSFO?CZmBD[BQFWBMBSFWDQDWDQDKBSBQDQBW@QBO?O@Q@MFODQDM?W@W?U@QDSBQDQDSDKFWDO@MBQDO@OF[FQH[DO?S@QAO?OBOJQ@OFQJWFMFKFKFKJCFCHAJ?H@L@P?J?JAFALCHEJGJIFGBQDMDKNQLM??Tk@JGJQDK?W?OEMCQ?OASCMEQEK?S?O?U?O?WAO?SCOEWESGKIGKCEIGMEKCMGOGKGKAM?QASEQEQAO@QHIJCFAPGPEVKHCLELIFEPOFIJIHIFQFKDOHQDGHIPQJILODGFOHODMDIFKFIBa@BSHQJMNUDK??`@{@@OBS@Q@W@WBO@QBMFOFMFMDKFKFOFMFODMJUFQBOFSDWBM@OHYFMFOHUDODSDMBW@UBUFODK@]BQ@SBMFSFQFMLMFGHGHMFGLQHIHILKJEHGLOJQNQHEHAJAHA??t@CH?H?TAH?H?H@H@HFHLHBHFLHFDFBLBH?H?JEFGPQFEZUHELGHEHELEHAJ?LAPQ\\UFIFMBG|@y@HCJKFKFMFIHUHUDKFQJUDKPQFEJQFQDIDMFIHIHIJIFOLWFON[LQFKFIFIHOFKFMDKHMJKFCJGLGHGJKJEJIJGNIFENCFCJCFEJGFIJILIHELELCJGDGX]@OBMFIH?HFH?LGFEHGFGFIJKH?JBJEJKHIFGFQDMIKMIGCMMGICKEMGIGIIIKEM@IFELCT????BUDMHGLAJDHHFHFHDLBJFHLLFBLHHJELGPGFIHKJKDKCI?KJGHGFIFGDMFI?IGI?GHCLANY\\EFKFMBMDIDMHKHGHKFGDKBGBOBGDOHKFKHKDKJIFMFKFGBKJILEJGLGJINGHGHGJMPOZGNMVGNKHIHIHGHELEHGPKPGDQPEJKTGPEJITITGHGLGJKJIB}@x@CFGLGH]TQPM@K?I@MDIDIDMFID[TGDQPGFKDI?I?MCGCGEMIIGICIMIGIAIAI?I?U@I?I?u@B??I@K@I@IDOPKPMNIFKDMJIHIHMPGFILIFGFMLGLGPGRCLARCPA\\EJGNCTATCVELERENITGNGLIXANCLEVGRCNGPKTELGNGLGNGJEJGLGLGNCLAPCNAVAVAPCRANa@z@??EJOTKLIPCRC`@GHGJEHELINGNEFMNKHQPIHEFIPENGJGPIHKHGHQNGDMHMDIBWJQDQFG@KBIHAP@NDPDP@R?P@LFJFJFNBLDJFLDHJBHFFJDRDVBN?R@N?V?N?T?N?RDJDPBL@R?NBPDL?N?VEJKPKFUj@??MLOPEJELCPGFKHKFIDMBG@K@K?Q?MAIAK?I@GBKBGJGJGJGLKVGPANKPCN?N@NAP?RENIZGPGZANENCPALENGVEJEREPCPERAP?TAV?VELEPGNALAP?NCNAPCVEPCPCREJEPEVEPGVCRCLGVCPEZ[lB?BGNMRELGNEVCREVETARALCV?V?P?P?P?X?N?P?P@N@^@T@N@XBXBR?P@NBTBNBR?T?RCNEPALCLEVCRMh@CPCLEPCTANCNENCVGTIPMLMBKBQBKBEJCNALERGNIRKNGFKLIPCX?XCVGREJGHILIJGJKNGJGPIJINGPGJGPINGLO^INENGLGJEHIRGNEJENUv@AFGPELETCLATCPEPCNEJGRELENEPGPCNELCTALCN?T?T?PBPBLDN?N@VDJFDFBJ@HB@PBXALANANEHGNILEJGJEJKREPEJEJCLAPCN?RALCNGLGPGHGLENCRCRCPETCLEJENGNGHGFGFIDEHGTGVEJCNCL?PANANELCLETEJCVARCRCRCLCNCNAPG\\ERGNELGJELEPEJGJGNIFIFEHIPCNCPANGRGPCHSn@??CLCVCNCPCNANAVEPEXAX?R?P?RCX?REPGTGPENETAVELGNIHIDKDK@K?I?K@QDI?IDGBKDKFIDKLKJEHKVINEHIPGNIJGLCJCRCNCT?PCVAT?TCPERILEHAL?PCLIXGNGLGHEFGLCLCP?NAPEPELEJELOTEHILGFEFIHUn@ABGNGLIHKHMFIFEHAP?T?ZIRM\\EJGLOPGHGPGLG`@Gz@EdACz@EZAj@Cb@AVI\\CTANGZMr@C`@A`@CNCNEPELGPMXELEJIRCNMJKFELAVBLFLDNBR?PARAPEPEL?TCPARERIJIFQHEFMPEJGHELEVKx@EHINGRETALCNEPAPCLCNEVGJILGDIDGJAL?P?N?PGLCN?P@NCNINGBIFIDIFGHIJOPGFELELCNAPAPCPEJELGLAPCREREHGNGFGJ?PCTEJOFK?IAICGCIAIDEHCNANAP?P?NAR?P?PBPFJFHFLDJ@NBN?N@P?T?P@N@NBJDNCJELAP?P@NBLDHH@HAHEHAFD@N?PCL?NHBHAH?H?JCH?FJMzA?J?NBNH?HAFCHDBJ?RAP?PDRFHFJBN?PBRHNFFDLDTBL@V?NAVAREPEHIPIPGRAPANCRCPELEPCN@NDHHDH@J?J@FDDL@LBPDNDJDL?TALENCRELCPAP@P@NBPDL?N?VALCP?RGXARCPCVCR?XALCPAR?NANANBR@NDN@L?P@NCNGJ@R?RERGPGXCXEXCRAPANALGREJGPGLGJCT?N@NDTBTANA\\AT?PDLDLDL@PAVAPCNETELCLCLAP?PELEJEHENANCLARGLEL?N?R?NMj@??IPIPAZ@Z?h@@XA^ELAL?R?NARCRELEJEPEJGJGHIHIHIBMCIGGGGGGIIAKD?V@T@XB`@@L@V@PBLBL?P?R?NENEVAN?P?NCNEPAPAPE^?NELENERANCNANANANAPELCRAN?NCNGLGFIJGP@T@L@TENIJCNCP?TCJGPGNIFKFIHI@KDMHKHGFEHELCLCPAPCNENIHI?M?I?ELQX?@GHGDK?IAGBGJGJIFGFEJGJERENETCNCPCLARERAR?NAPCRARELCNIVEJGNGNGNGHIDIEI@IFGCGII?IBCLCPAREJIFELANANCRGHK?GCKGGIEMGKCMIQIKMSGKGIGGQUGIGIMKGIGGGIGKKMGGIIsAeBEGGIGKIIGMCOCSCQGUIUGMEKIMGKEIIMEKGMEQCMEQEQEUCMEOCOCOEMCMEKEIGKIMIIKMIKIKGMGGIKIMIKGIEIEKGGGGMMGIGGGGcCcC",
+                                "elevationData": null,
+                                "indexedElevationData": "?oihbzEgEn}zFgEnnTgEnzDgE_db@gEoyo@gEo}@gEoe`@gE_`qAgE_nhBgE_jwCgEonTgEninBgEntiCgEn}}BgEn_eDgE~mhBgEn|hDgEnb~GgE~auFgE~yuEgE~wnDgEnnqCgE~s`BgE~cb@gE~zm@gE_g^gE_fiAgE_{jDgE_kiFgEoewKgEoldJgEokrGgEovpDgEoj`EgEoz~FgE_neFgE_d|GgEo{sEgEopxDgE_ycCgE_}tAgEo|k@gE~`f@gE~f^gE_mVgE_cgIgEoz~FgEohyCgEokXgE_jwCgEop{@gEoyo@gE~tfTgE_af@gE_skCgEoxwEgE_}qEgE_rvDgE_d_DgE_acDgE_neFgE_zuEgE_rvDgE_`qAgEnp{@gE~iZgE~rNgE~|tAgE~pdBgEnsw@gE_ieAgE~tu@gEom_AgE_|BgE~lsCgE~xcCgE~rhGgE~arJgEn|bLgE~x`GgEnalEgEosw@gE_`qAgE_ieAgEofrBgE~lVgEnaoAgE~qvDgEn{vAgEn~rAgE~_qAgE~bmAgEn~rAgE~pdBgE~oRgE_uu@gE_d_DgEopxDgEokuCgEoxzAgEo_bHgE_qaFgE_neFgEor_FgEogaIgEoz~FgE_`nEgEoezGgE_cgIgE_tzIgEo`tJgEoryMgEoprLgEozrVgEoycPgEoacQgEob~GgE_mpGgEofrBgEom_AgE_jwCgEo~rAgE_o}@gE~lVgE_yFgEoofBgEovpDgEoe`@gEovaXgEo__LgE_xkHgE_~`LgEoyiHgE_skCgE~}i@gEntLgE_tzIgEoqgKgEopuHgEor|IgE_jtGgE_t}EgE_shGgEoh\\gEnjcAgEnzaCgE_sNgE~xFgEo~rAgEo`wFgEohvGgE_vdGgE_uiPgEomvLgE_`kIgE_wyEgEopuHgE_luPgE_cdMgEo{gUgE_~`LgE_msCgE_|_CgE_q~IgE_wsMgE_gxGgE_gxGgE_q~IgE_vgCgEoqmCgEocvBgEokuCgE_}qEgEokrGgEoaiIgE_x|[gEoplTgEot`OgEohpOgEotkj@gE_fzTgE_y}JgE_otLgE_}nIgEodbMgEozxNgEoo}MgEozoZgEohmSgE_oqPgEokiSgE_iyPgEo`tJgE_rpLgE_quUgE_`|\\gE_lxLgE_nvYgE_|sRgEodbMgEovgPgE_`kIgE_skCgEnj`EgE~iwCgE~c_DgEn|hDgE~jlBgE_}tAgEo|eHgE_i_IgEoj}HgEo`wFgEodhEgE_eqFgEoweCgEowbGgE_seKgE_piKgE_}nIgE_{dLgE_gxGgE_l{HgEo`e^gE_qrYgEoh{j@gE_|vNgE_xhLgEoafMgEorvQgE?gE_{rc@gEo|hDgE_wyEgE_piKgEo~lIgE_wvIgE_q{MgEob~GgE_i_IgEoqjGgE_rvDgEoz~FgEoaiIgEolaNgEoklOgE_ulLgEodbMgEohyCgEonqCgEoqmCgEonnGgE__vJgEob{KgEoryMgEoprLgE_nbJgEo}zFgEoewKgEoneSgE_vdGgEojcAgEotLgE_t}EgEor|IgE__sNgE_piKgEoyfLgE_`kIgE_qdBgE_lxLgEozxNgEog{PgEoycPgE_zrIgEosnLgEoalEgE_qdBgEoggAgE_ozDgEopuHgE_nbJgEo_h@gE_{jDgEob~GgEo}zFgEofoFgE_q~IgEokXgEnxzAgE~xcCgEne`@gEo_h@gE_o}@gEocvBgEoweCgEoocFgEodeIgE_pfOgE_piKgE_lxLgE_kcNgEoewKgEogaIgEoikFgEo__LgE_{jDgE_{gHgE_jtGgEoz{JgE_{dLgEo{pIgE_qaFgE_|_CgEokrGgE_d_DgE_~fDgE_cgIgE_hgNgE_}hQgEohmSgE_rjTgEobrWgEofza@gEo{gUgE_qxQgE_f`MgEoneSgEoqx^gE_cu`@gE_li`@gEoa`UgE_wjYgEozuRgEn}@gEnm_AgEn_h@gEo|k@gEokXgE_qdBgEolgFgE_t`BgEoylDgEoyiHgEoyfLgEovmHgE_rsHgE_buFgE_{dLgE_enJgEodeIgE_jqKgEor_FgEopxDgEo}wJgE_onTgE_jkSgE_nbJgE~zm@gEnm|DgEop{@gEow_KgE_dm[gE_ufTgEoi|YgE_jhWgE_}nIgE_xq@gE_|BgE~pla@gEoz~FgE_mjOgEoibRgE_sbOgE_sbOgE_boNgE_iyPgE_xnDgEnjcAgE_t`BgE_laAgEo{mMgEorvQgEoxnQgE_}hQgEoxnQgE_`nEgEoyo@gEobd@gE?gE?gE?gE~jlBgE_wyEgE_laAgE_}tAgE__|BgEo}}BgEokuCgEokXgEowHgEoofBgEoggAgEo|hDgE_hmFgE_eqFgE_vdGgE_urDgEojcAgEosw@gEn~rAgEne`@gE~cb@gE_o}@gEop{@gEom_AgE_zxAgEom_AgEn_h@gEnyo@gEne`@gEoqPgE_af@gE_jwCgE_urDgEomyHgE_cjEgEojcAgEnlgFgEnweCgE~bmAgE_af@gE_|_CgEoylDgEoweCgEogdEgEoalEgE_t}EgE_|_CgEoqmCgEotiCgE_cmAgEovs@gE_jZgEoxzAgE_laAgEo}@gE~uJgE~xFgE_laAgEokXgEotfGgEo{sEgE_zrIgEo{pIgE_~cHgEolgFgE_mmKgEomyHgE_||FgEostDgE_hpBgEotLgEotLgE_fiAgEnpxDgEou~AgE~wq@gE~iZgEoaoAgE~zm@gE~tu@gE~rNgE_|BgEoinBgEonTgE~qy@gEosnLgEo|k@gE~iZgEnrbBgE~zm@gEndhEgE~yxAgE~yrIgE~~{BgEnsw@gEodkAgEozaCgE_jZgE_urDgE~kaAgEnzDgE_qdBgE_skCgEom|DgEopuHgEowbGgE_qaFgE_mpGgE_jqKgEostDgE~oRgEnnTgEo}}BgE_nhBgE_g^gEn~rAgEnkuCgEnwHgE~cb@gE~uJgEom_AgE_kiFgEo~cUgE_`eQgE_xePgE_d|GgE_t`BgE__|BgEop{@gE_zxAgEnggAgEnxwEgEoikFgE_n|QgEoofBgEoljBgE~pdBgEne`@gE_jZgEozDgE~ugCgE~s}EgE~pdBgE~f^gEo}}BgE_pfOgE_dyKgE_jqKgE_}qEgE_}tAgEnxzAgEnqPgE~qy@gEoh\\gE_uu@gEowHgE~xFgE~|tAgE~rNgEne`@gEnkXgE~cb@gEnzaCgE_nhBgEo~rAgEo}}BgE_}qEgEoe}CgE_xnDgEop{@gEoj`EgE_poCgE_pRgE~lVgEo}@gE~v|AgE~`f@gEoh\\gE_|_CgE_db@gE~mhBgE~}fDgEnbd@gE_jZgE_acDgE_g{CgEoqmCgEovpDgEoinBgE_yFgE_shGgE_g{CgEozaCgEofrBgE_}qEgE_urDgE_ieAgE_`qAgE_pfOgEofiNgEozrVgEovaXgE_sbOgE_wpQgE_wpQgEoflJgE_rpLgEoo`JgE_luPgEosw@gEoyo@gE_ry@gE_{m@gEntiCgE~|nIgE~uaKgE~oiKgE~k{HgEnnqCgEn|k@gEnqPgEohyCgE_uoHgEoqjGgEoihJgE_zoMgE_owHgEodhEgE_t}EgEoxqMgE_caQgEoaiIgE_jwCgEoweCgE_l~DgE_{jDgE_nhBgEojcAgE~xFgE?gE_jwCgEobaDgEob~GgE_l{HgEowbGgE_uoHgE_d|GgEonTgEozDgEnyo@gEnyo@gEo_h@gEo_h@gE_uu@gEom_AgE~}i@gEnpxDgE~zjDgEnnnGgEnnqCgEn|k@gE_xq@gE~}i@gEnzDgE~iZgEnh\\gE~wq@gEnnTgEnyo@gE~ugCgE~jlBgEo_eDgE_ibEgEoo`JgE_jwCgE~itGgE~rhGgE~qsHgE~v|AgE~_qAgE_~i@gEoh\\gEoaoAgEnh\\gEn{vAgEnhyCgEn{sEgE_cmAgE_hpBgEo`zBgE_nhBgEnh\\gE~wq@gEnvs@gE~lVgEnbd@gEnqPgE~f{CgEn}}BgEnpxDgEnylDgEntfGgE~gmFgEnnnGgEnocFgE~dqFgE~udGgE~ecIgE~~xFgE~dtBgE~ugCgE~s`BgE~rkCgEnu~AgE~_qAgEnggAgE~~{BgE~jlBgEnjcAgEoggAgEoweCgEoylDgEo}}BgE_ycCgEo}}BgE_|_CgEoggAgEoj`EgEonqCgE_jwCgEoggAgE_~i@gE_yFgE~wq@gE~lVgEnsw@gEn~rAgE~kaAgEnhyCgEntiCgEnhyCgEndhEgE~_nEgEn~rAgE~ooCgEncsFgE~udGgEnj}HgE~paFgE~p~IgEn~oEgE~gmFgEnofBgEnqPgEokXgEnh\\gE~~{BgEnnnGgE~bjEgEn|k@gE~{BgEne`@gEninBgE_uu@gEntLgE_xq@gE_mpGgEotiCgE_hmFgE~iZgE~}fDgE~trDgE~c_DgEngdEgE~iwCgE~paFgEnwbGgE_mVgE_ry@gEojcAgE_nhBgEor_FgE_t}EgE_skCgEoqPgEndkAgEngdEgE~rkCgE~v|AgEnsw@gE~mhBgEnstDgEnfoFgEnmyHgEnewKgEnyiHgEn~lIgEnjzLgEnb~GgEnm|DgE~|qEgE~wnDgE~axBgEn|k@gEnljBgE~kaAgE_jwCgEo{sEgEoqmCgE~uJgEofrBgEosw@gEom_AgEnzaCgEotLgE_gxGgE_gxGgE_vaKgEo~lIgE_neFgEn{vAgEnstDgEnzaCgE_zuEgEocsFgE_yFgE~xFgEne`@gE~lVgEnh\\gEo|k@gEosw@gE_w|AgE_msCgEokuCgE_msCgE~dtBgE~heAgEn}@gE_t`BgEobaDgEoalEgE_urDgEogdEgEoh\\gE~xFgEovs@gE_urDgEonTgE_dj_@gE_hmFgEobaDgE_ibEgEo{vAgEoggAgEo~rAgEodkAgE_q{MgE_boNgE_dyKgE~}fDgEnezGgEnnnGgEn}@gEoyo@gE_jZgEoxzAgEoaoAgEo|k@gE~v|AgE~mhBgE~mhBgE_pRgE_db@gE_o}@gEn}wJgEnycPgEnkoKgEoe`@gEovs@gE_pRgEo_eDgEoweCgEofrBgE_o}@gE~yxAgE~eiAgE_buFgE_lxLgEow|NgE~f{CgEn~rAgEnqPgEnwHgEoe`@gE_g{CgE_tzIgE_yFgEom|DgE~s`BgEnxwEgEnb~GgEnw_KgE~_nEgEnhyCgEnocFgEnsqHgE~arJgEn_bHgE~oiKgEowHgE_db@gE_mVgEoqPgE~bmAgEntiCgE~c_DgE~lsCgE~yxAgE_poCgEozDgEn~rAgEnyfLgE~p{MgE?gE~m_NgEnvs@gE_af@gE_yFgE_}bYgEocgVgE_|pVgEopiXgEoffRgEobrWgE_pfOgE_{dLgE_{gHgE_{dLgEo`zBgEorbBgE_ieAgE_klBgE_`qAgEojcAgE__|BgE_rvDgE~|tAgE~fxGgEnaoAgEoyo@gE_`nEgE_kcNgE_ibEgEop{@gEogdEgE__yFgE_hmFgE?gE~bmAgE~cb@gE_nhBgE_msCgEoyo@gE~ofOgEno}MgEn~lIgEnm|DgEnqgKgEndbMgEni_VgE~vvIgEnb~GgEnweCgEowHgEo_bHgE_y`GgE_ieAgEo}@gE~f{CgEn`zBgE~xFgEoz~FgEojzLgE_c~TgE_igh@gE_isXgE_x_XgE_plGgEoflJgEo~lIgE_jwCgE__|BgE_vgCgEoezGgE_hgNgEoinBgE_hpBgE_cgIgEoqaSgEoihJgE?gEobqbAgEo`wFgE_}nIgEonqCgEo|hDgE_w|AgEobaDgEoaoAgEoj`EgEotiCgE_o}@gE_db@gE_sNgEokXgE?gE~xFgE_xhLgEohpOgE_{{WgE_~}OgEovjLgEomsPgE_bfZgE_mgSgEoa`UgE_eeVgEohvGgEo`tJgEonbWgE_loXgEo`bb@gEocdZgE_gcc@gEoca^gEo}wJgEo~oEgEo~oEgE_hgNgE_}nIgEo{pIgE_plGgE_xhLgEob{KgEo_bHgE~axBgE~qy@gE~jlBgE_uu@gE_ry@gEoyo@gEnalEgEnsqHgE~kuPgEndbMgE_|yJgE_wsMgEowbGgE_w|AgEovpDgEoocFgEoezGgE_||FgE?gE_cip@gEo|eHgEo_bHgEo`nRgEonnGgE_mpGgE_plGgEopxDgE_g{CgE_hpBgE_|_CgE_ibEgEoprLgEob~GgE_||FgE_jqKgEokrGgEo}zFgEo}zFgE_buFgEogxTgE_t}EgE_q{MgEobaDgEowbGgE_zuEgE_xnDgE_t`BgE_`qAgE_bxBgE~uJgEnr|IgE_q{MgEojcAgEnpuHgEnm_AgE_guKgEnqjGgE~}fDgEnwHgEor|IgE_qaFgEojwPgE_zuEgEo{vAgE_plGgE_db@gEnvmHgE~xzNgE~~{BgEnh\\gEonTgE~`f@gE_jZgEne`@gE~n}@gE~cb@gE~f^gEojcAgE_|_CgEo_eDgE_|yJgEohvGgEonqCgE_bxBgE__|BgEoocFgE_ibEgE_vdGgE_neFgE_hpBgEopxDgEoljBgEofoFgE_nbJgEoycPgE_}eUgEoxnQgE_wmUgE_ytVgE_tee@gEoeqSgE_`y`@gEoacQgEoy`TgEocmNgEoowUgE_ehRgEoseXgEoulYgEot`OgEohmSgE_k`RgEozuRgE_fcIgE_q`q@gEoxhYgEoq~VgE_blRgE_ozDgE~n}@gEovmHgE_rgXgEobxOgEompTgE_cdMgE_cdMgE_|vNgEoinBgEosw@gE_ibEgEofoFgEofoFgE__|BgEowbGgEor_FgEosw@gE~bjEgEnqmCgEnaiIgEn_h@gE~zm@gE_mVgEocvBgEorbBgE_|_CgEodhEgE_kfJgEosqHgEoocFgE_skCgE?gE?gE~rkCgEnocFgEnsqHgE~jfJgEndhEgE~{_CgEnrbBgEncvBgE~lVgE_{m@gEo_h@gEoaiIgEoqmCgE_cjEgEnsw@gEnr_FgEnwbGgE~~{BgEnfoFgEnfoFgE~hbEgEnsw@gEninBgE~{vNgE~bdMgE~bdMgEnmpTgEnbxOgE~qgXgEnvmHgE_o}@gE~nzDgE~alRgEnq~VgEnxhYgE~p`q@gE~ecIgEnzuRgE~j`RgEnhmSgEnt`OgEnulYgEnseXgE~dhRgEnowUgEncmNgEny`TgEnacQgE~_y`@gEneqSgE~see@gE~xtVgE~vmUgEnxnQgE~|eUgEnycPgE~mbJgEnfoFgEnljBgEnpxDgE~gpBgE~meFgE~udGgE~hbEgEnocFgE~~{BgE~axBgEnnqCgEnhvGgE~{yJgEn_eDgE~{_CgEnjcAgE_g^gE_db@gE_o}@gEoe`@gE~iZgE_af@gEnnTgEoh\\gE__|BgE_yzNgEovmHgE~cb@gE~olGgEn{vAgE~yuEgEnjwPgE~paFgEnr|IgEowHgE_~fDgEoqjGgE~fuKgEom_AgEopuHgEnjcAgE~p{MgEor|IgE_vJgE~axBgE~_qAgE~s`BgE~wnDgE~yuEgEnwbGgEnbaDgE~p{MgE~s}EgEngxTgE~auFgEn}zFgEn}zFgEnkrGgE~iqKgE~{|FgEnb~GgEnprLgE~hbEgE~{_CgE~gpBgE~f{CgEnpxDgE~olGgE~lpGgEnnnGgEn`nRgEn_bHgEn|eHgE~bip@gE?gE~{|FgEnezGgEnocFgEnvpDgE~v|AgEnwbGgE~vsMgE~{yJgEodbMgE_luPgEosqHgEoalEgEnyo@gE~qy@gE~tu@gE_klBgE_ry@gE_bxBgEn_bHgEnb{KgE~whLgE~olGgEn{pIgE~|nIgE~ggNgEn~oEgEn~oEgEn}wJgEnca^gE~fcc@gEncdZgEn`bb@gE~koXgEnnbWgEn`tJgEnhvGgE~deVgEna`UgE~lgSgE~afZgEnmsPgEnvjLgE~}}OgE~z{WgEnhpOgE~whLgE_yFgE?gEnkXgE~rNgE~cb@gE~n}@gEntiCgEnj`EgEnaoAgEnbaDgE~v|AgEn|hDgEnnqCgE~|nIgEn`wFgEnbqbAgE?gEnihJgEnqaSgE~bgIgE~gpBgEninBgE~ggNgEnezGgE~ugCgE~~{BgE~iwCgEn~lIgEnflJgE~olGgE~w_XgE~hsXgE~hgh@gE~b~TgEnjzLgEnz~FgE_yFgEo`zBgE_g{CgEn}@gE~heAgE~x`GgEn_bHgEnwHgEoweCgEob~GgE_wvIgEoi_VgEodbMgEoqgKgEom|DgEo~lIgEoo}MgE_pfOgEnyo@gE~lsCgE~mhBgE_db@gE_cmAgE?gE~gmFgE~~xFgEngdEgEnp{@gE~hbEgE~jcNgE~_nEgEnyo@gEoaoAgE_gxGgE_}tAgE~qvDgE~~{BgEnjcAgE~_qAgE~jlBgE~heAgEnrbBgEn`zBgE~zdLgE~zgHgE~zdLgE~ofOgEnbrWgEnffRgEnpiXgE~{pVgEncgVgE~|bYgE~xFgE~`f@gEovs@gE_n_NgE?gE_q{MgEoyfLgEo~rAgEnzDgE~ooCgE_zxAgE_msCgE_d_DgEotiCgE_cmAgEnqPgE~lVgE~cb@gEnwHgE_piKgEo_bHgE_brJgEosqHgEoocFgEohyCgE_`nEgEow_KgEob~GgEoxwEgE_t`BgEnm|DgE~xFgE~szIgE~f{CgEne`@gEowHgEoqPgEo~rAgE_g{CgEnw|NgE~kxLgE~auFgE_fiAgE_zxAgE~n}@gEnfrBgEnweCgEn_eDgE~oRgEnvs@gEne`@gEokoKgEoycPgEo}wJgE~n}@gE~cb@gE~oRgE_nhBgE_nhBgE_w|AgEn|k@gEnaoAgEnxzAgE~iZgEnyo@gEo}@gEonnGgEoezGgE_~fDgE~cyKgE~aoNgE~p{MgEndkAgEn~rAgEnggAgEn{vAgE~hbEgEnbaDgE~gmFgE~cj_@gEnnTgE~trDgEnvs@gE_yFgEnh\\gEngdEgE~trDgEnalEgEnbaDgE~s`BgEo}@gE_ieAgE_etBgE~lsCgEnkuCgE~lsCgE~v|AgEnsw@gEn|k@gEoh\\gE_mVgEoe`@gE_yFgE~xFgEncsFgE~yuEgEozaCgEostDgEo{vAgE~meFgEn~lIgE~uaKgE~fxGgE~fxGgEntLgEozaCgEnm_AgEnsw@gEnfrBgE_vJgEnqmCgEn{sEgE~iwCgE_laAgEoljBgEo|k@gE_bxBgE_xnDgE_}qEgEom|DgEob~GgEojzLgEo~lIgEoyiHgEoewKgEomyHgEofoFgEostDgE_nhBgEosw@gE_w|AgE_skCgEogdEgEodkAgEnqPgE~rkCgE~s}EgEnr_FgE~mhBgEnjcAgE~qy@gE~lVgEowbGgE_qaFgE_jwCgEogdEgE_d_DgE_urDgE_~fDgE_jZgE~gmFgEntiCgE~lpGgE~wq@gEotLgE~tu@gEoinBgEoe`@gE_|BgEo|k@gE_cjEgEonnGgE__|BgEoh\\gEnkXgEoqPgEoofBgE_hmFgEo~oEgE_q~IgE_qaFgEoj}HgE_vdGgEocsFgE_poCgEo~rAgE_`nEgEodhEgEohyCgEotiCgEohyCgE_laAgEo~rAgEosw@gE_mVgE_xq@gE~xFgE~}i@gEnggAgE~iwCgEnnqCgEnj`EgEnggAgE~{_CgEn}}BgE~xcCgEn}}BgEnylDgEnweCgEnggAgEojcAgE_klBgE__|BgEoggAgE_`qAgEou~AgE_skCgE_t`BgE_vgCgE_etBgE__yFgE_fcIgE_vdGgE_eqFgEoocFgEonnGgE_hmFgEotfGgEoylDgEopxDgEo}}BgE_g{CgEoqPgEobd@gE_mVgEovs@gE_xq@gEoh\\gE~mhBgEn`zBgE~gpBgE~bmAgEo{sEgEohyCgEo{vAgEoh\\gEnaoAgEnh\\gE~}i@gE_`qAgE_w|AgE_rsHgE_shGgE_jtGgE~iwCgEno`JgE~hbEgEn_eDgE_klBgE_vgCgEoyo@gEonTgE_xq@gEoh\\gE_jZgEozDgE_~i@gE~wq@gEo|k@gEonqCgEonnGgE_{jDgEopxDgE_~i@gEnm_AgE~tu@gEn_h@gEn_h@gEoyo@gEoyo@gEnzDgEnnTgE~c|GgE~toHgEnwbGgE~k{HgEnb~GgEnbaDgE~iwCgE?gE_yFgEnjcAgE~mhBgE~zjDgE~k~DgEnweCgE~iwCgEnaiIgE~baQgEnxqMgE~s}EgEndhEgE~nwHgE~yoMgEnihJgEnqjGgE~toHgEnhyCgEoqPgEo|k@gEonqCgE_l{HgE_piKgE_vaKgE_}nIgEotiCgE~zm@gE~qy@gEnyo@gEnsw@gE~kuPgEno`JgE~qpLgEnflJgE~vpQgE~vpQgE~rbOgEnvaXgEnzrVgEnfiNgE~ofOgE~_qAgE~heAgE~trDgE~|qEgEnfrBgEnzaCgE~f{CgE~rhGgE~xFgEninBgEnvpDgEnqmCgE~f{CgE~`cDgE~iZgEobd@gE_~fDgE_nhBgE~cb@gE~{_CgEnh\\gE_af@gE_w|AgEn}@gE_mVgE~oRgE~ooCgEnj`EgEnp{@gE~wnDgEne}CgE~|qEgEn}}BgEn~rAgE~mhBgEozaCgE_db@gEokXgEoe`@gE_sNgE_}tAgE_yFgEnwHgE~tu@gEnh\\gE_ry@gEoqPgEoxzAgE~|tAgE~|qEgE~iqKgE~cyKgE~ofOgEn}}BgE_g^gE_qdBgE_t}EgE_vgCgEnzDgE~iZgEoe`@gE_qdBgEnljBgEnofBgE~m|QgEnikFgEoxwEgEoggAgE~yxAgEnp{@gE~~{BgE~s`BgE~c|GgE~wePgE~_eQgEn~cUgE~jiFgEnm_AgE_vJgE_db@gEowHgEokuCgEo~rAgE~f^gE~mhBgEn}}BgEonTgE_pRgEnstDgE~iqKgE~lpGgE~paFgEnwbGgEnpuHgEnm|DgE~rkCgE~pdBgEozDgE_laAgE~trDgE~iZgEnzaCgEndkAgEosw@gE__|BgE_zrIgE_zxAgEodhEgE_{m@gEorbBgE_jZgEn|k@gEnsnLgE_ry@gEnnTgEninBgE~{BgE_sNgE_uu@gE_{m@gEnaoAgE_jZgE_xq@gEnu~AgEopxDgE~eiAgEntLgEntLgE~gpBgEnstDgE~{|FgEnmyHgE~lmKgEnlgFgE~}cHgEn{pIgE~yrIgEn{sEgEntfGgEnkXgE~kaAgE_yFgE_vJgEn}@gE~kaAgEnxzAgE~iZgEnvs@gE~bmAgEntiCgEnqmCgE~{_CgE~s}EgEnalEgEngdEgEnweCgEnylDgE~{_CgE~`f@gE_cmAgEoweCgEolgFgEnjcAgE~bjEgEnmyHgE~trDgE~iwCgE~`f@gEnqPgEoe`@gEoyo@gEo_h@gEnm_AgE~yxAgEnm_AgEnp{@gE~n}@gE_db@gEoe`@gEo~rAgEnsw@gEnjcAgE~trDgE~udGgE~dqFgE~gmFgEn|hDgEnggAgEnofBgEnwHgEnkXgEnkuCgEn}}BgE~~{BgE~|tAgE~kaAgE~vyEgE_klBgE?gE?gE?gEnbd@gEnyo@gE~_nEgEnxnQgE~|hQgEnxnQgEnrvQgEn{mMgE~kaAgE~s`BgEojcAgE~wnDgE~hyPgE~aoNgE~rbOgE~rbOgEnibRgE~ljOgEnz~FgE_qla@gE~{BgE~wq@gE~|nIgE~ihWgEni|YgE~tfTgE~cm[gEnw_KgEnp{@gEom|DgE_{m@gE~mbJgE~ikSgE~nnTgEn}wJgEnpxDgEnr_FgE~iqKgEndeIgE~dnJgE~zdLgE~auFgE~qsHgEnvmHgEnyfLgEnyiHgEnylDgE~s`BgEnlgFgE~pdBgEnkXgEn|k@gEo_h@gEom_AgEo}@gEnzuRgE~vjYgEna`UgE~ki`@gE~bu`@gEnqx^gEnneSgE~e`MgE~pxQgEn{gUgEnfza@gEnbrWgE~qjTgEnhmSgE~|hQgE~ggNgE~bgIgE~}fDgE~c_DgEnkrGgE~{_CgE~paFgEn{pIgE~zdLgEnz{JgE~itGgE~zgHgE~zjDgEn__LgEnikFgEngaIgEnewKgE~jcNgE~kxLgE~oiKgE~ofOgEndeIgEnocFgEnweCgEncvBgE~n}@gEn_h@gEoe`@gE_ycCgEoxzAgEnkXgE~p~IgEnfoFgEn}zFgEnb~GgE~zjDgEn_h@gE~mbJgEnpuHgE~nzDgEnggAgE~pdBgEnalEgEnsnLgE~yrIgEnycPgEng{PgEnzxNgE~kxLgE~pdBgE~_kIgEnyfLgE~oiKgE~~rNgEnr|IgE~s}EgEntLgEnjcAgE~udGgEnneSgEnewKgEn}zFgE~mbJgEnprLgEnryMgEnb{KgE~~uJgEnnnGgEnqmCgEnnqCgEnhyCgEndbMgE~tlLgEnklOgEnlaNgEnaiIgEnz~FgE~qvDgEnqjGgE~h_IgEnb~GgE~p{MgE~vvIgEn~lIgE~oiKgE~vyEgEn|hDgE~zrc@gE?gEnrvQgEnafMgE~whLgE~{vNgEnh{j@gE~prYgEn`e^gE~k{HgE~fxGgE~zdLgE~|nIgE~oiKgE~reKgEnwbGgEnweCgE~dqFgEndhEgEn`wFgEnj}HgE~h_IgEn|eHgE~|tAgE_klBgEo|hDgE_d_DgE_jwCgEoj`EgE~rkCgE~_kIgEnvgPgEndbMgE~{sRgE~mvYgE~kxLgE~_|\\gE~puUgE~qpLgEn`tJgE~hyPgEnkiSgE~nqPgEnhmSgEnzoZgEno}MgEnzxNgEndbMgE~|nIgE~ntLgE~x}JgE~ezTgEntkj@gEnhpOgEnt`OgEnplTgE~w|[gEnaiIgEnkrGgE~|qEgEnkuCgEncvBgEnqmCgE~ugCgE~p~IgE~fxGgE~fxGgE~vsMgE~p~IgE~{_CgE~lsCgE~}`LgEn{gUgE~bdMgE~kuPgEnpuHgE~vyEgE~_kIgEnmvLgE~tiPgE~udGgEnhvGgEn`wFgEn~rAgE_yFgE~rNgEozaCgEojcAgEnh\\gE~rhGgE~s}EgE~itGgEnr|IgEnpuHgEnqgKgE~szIgEotLgE_~i@gE~rkCgEnyiHgE~}`LgE~wkHgEn__LgEnvaXgEne`@gEnvpDgEnofBgE~xFgE_mVgE~n}@gEn~rAgE~iwCgEnm_AgEnfrBgE~lpGgEnb~GgEnacQgEnycPgEnzrVgEnprLgEnryMgEn`tJgE~szIgE~bgIgEnezGgE~_nEgEnz~FgEngaIgEnr_FgE~meFgE~paFgEn_bHgEnxzAgEnkuCgEnpxDgE~c_DgE~tu@gE_pRgE_qdBgEo~rAgE_cmAgE_`qAgEo~rAgEo{vAgE_rvDgEoaoAgE_mVgEnfrBgE~heAgE~_qAgEnsw@gEoalEgE_y`GgEo|bLgE_brJgE_shGgE_ycCgE_msCgE~{BgEnm_AgE_uu@gE~heAgEosw@gE_qdBgE_}tAgE_sNgE_jZgEop{@gE~_qAgE~qvDgE~yuEgE~meFgE~`cDgE~c_DgE~qvDgE~|qEgEnxwEgE~rkCgE~`f@gE_ufTgEnyo@gEnp{@gE~iwCgEnkXgEnhyCgEnz~FgE~bgIgE~lVgE_g^gE_af@gEn|k@gE~|tAgE~xcCgEnpxDgEn{sEgE~c|GgE~meFgEnz~FgEnj`EgEnvpDgEnkrGgEnldJgEnewKgE~jiFgE~zjDgE~eiAgE~f^gE_{m@gE_db@gE_t`BgEonqCgE_xnDgE_zuEgE_buFgEob~GgEo|hDgE_nhBgEo_eDgEo}}BgEotiCgEoinBgEnnTgE~iwCgE~mhBgE~_qAgEne`@gEn}@gEnyo@gE~cb@gEozDgEonTgEo}zF"
+                            },
+                            "lineGeoStats": {
+                                "distanceTotal": 0.0,
+                                "elevationStart": null,
+                                "elevationEnd": null,
+                                "elevationGain": 0.0,
+                                "elevationLoss": 0.0,
+                                "elevationMax": null,
+                                "elevationMin": null
+                            }
+                        }
+                    ],
+                    "lineGeoStats": {
+                        "distanceTotal": 0.0,
+                        "elevationStart": null,
+                        "elevationEnd": null,
+                        "elevationGain": 0.0,
+                        "elevationLoss": 0.0,
+                        "elevationMax": null,
+                        "elevationMin": null
+                    }
+                }
+            ],
+            "waypoints": [
+                {
+                    "id": 192025484,
+                    "name": "First Viewpoint",
+                    "name_lang": "en-US",
+                    "name_original": "First Viewpoint",
+                    "description": "",
+                    "description_lang": "und",
+                    "description_original": "",
+                    "order": 1,
+                    "location": {
+                        "latitude": 53.23697,
+                        "longitude": -117.7642
+                    },
+                    "at_map_id": 83648388,
+                    "enable_translations": true,
+                    "waypointDisplayProperty": {
+                        "showTitle": false
+                    },
+                    "waypointCategory": null,
+                    "contentPrivacy": null,
+                    "isGlobal": null,
+                    "user": null
+                },
+                {
+                    "id": 192025567,
+                    "name": "Eastern Viewpoint",
+                    "name_lang": "en-US",
+                    "name_original": "Eastern Viewpoint",
+                    "description": "",
+                    "description_lang": "und",
+                    "description_original": "",
+                    "order": 2,
+                    "location": {
+                        "latitude": 53.22129,
+                        "longitude": -117.71541
+                    },
+                    "at_map_id": 83648388,
+                    "enable_translations": true,
+                    "waypointDisplayProperty": {
+                        "showTitle": false
+                    },
+                    "waypointCategory": null,
+                    "contentPrivacy": null,
+                    "isGlobal": null,
+                    "user": null
+                }
+            ],
+            "mapPhotos": [],
+            "metadata": {
+                "created": "2025-06-04T16:27:26Z",
+                "updated": "2026-07-15T04:04:57Z",
+                "status": "A",
+                "source": 1033,
+                "timezone": null,
+                "cursor": "eyJjcmVhdGVkX2F0IjoiMjAyNS0wNi0wNCAxNjoyNzoyNiIsImlkIjozMTc4NTM3MjIsInJhdGluZyI6bnVsbH0="
+            },
+            "estimatedTimeToComplete": {
+                "value": "7.5–8",
+                "unit": "hr"
+            },
+            "map_source": "web"
+        }
+    ],
+    "meta": {
+        "status": "ok",
+        "items": 1,
+        "timestamp": "2026-09-01T19:54:49Z"
+    },
+    "pageInfo": null
+}

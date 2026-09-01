@@ -1,0 +1,138 @@
+{
+    "maps": [
+        {
+            "id": 406723627,
+            "name": "Hidden Valley",
+            "description": null,
+            "description_lang": null,
+            "description_original": null,
+            "description_source": null,
+            "presentationType": "map",
+            "slug": "suggested-route-c18a684",
+            "created_at": "2026-08-07T01:37:25Z",
+            "timezone": null,
+            "location": {
+                "postalCode": null,
+                "city": null,
+                "region": "AB",
+                "country": "CA",
+                "country_id": 139,
+                "latitude": "53.17449",
+                "longitude": "-117.97205"
+            },
+            "bounds": {
+                "latitudeTopLeft": "53.17552",
+                "latitudeBottomRight": "53.17353",
+                "longitudeTopLeft": "-117.97211",
+                "longitudeBottomRight": "-117.95145"
+            },
+            "trailId": 10461135,
+            "activity": null,
+            "rating": null,
+            "difficulty": null,
+            "comment": null,
+            "obstacles": null,
+            "ratingAttributes": [],
+            "infoAttributes": [],
+            "user": null,
+            "dataUid": null,
+            "associatedTrailReviewId": null,
+            "routeType": null,
+            "originalAtMapId": 406723624,
+            "private": null,
+            "contentPrivacy": "urn:alltrails:visibility:public",
+            "hidden": null,
+            "popularity": null,
+            "summaryStats": {
+                "duration": 135,
+                "updatedAt": "2026-08-07T01:37:25Z",
+                "elevationMax": 1426,
+                "distanceTotal": 4054.01,
+                "elevationGain": 444,
+                "elevationLoss": 431
+            },
+            "profilePhotoId": null,
+            "photoCount": 0,
+            "splits": null,
+            "routes": [
+                {
+                    "id": 1,
+                    "sequenceNum": 1,
+                    "status": "A",
+                    "description": null,
+                    "name": null,
+                    "rating": null,
+                    "trailId": null,
+                    "location": {
+                        "postalCode": null,
+                        "city": null,
+                        "region": "AB",
+                        "country": "CA",
+                        "country_id": 139,
+                        "latitude": "53.17449",
+                        "longitude": "-117.97205"
+                    },
+                    "bounds": {
+                        "latitudeTopLeft": "53.17552",
+                        "latitudeBottomRight": "53.17353",
+                        "longitudeTopLeft": "-117.97211",
+                        "longitudeBottomRight": "-117.95145"
+                    },
+                    "createdAt": null,
+                    "updatedAt": null,
+                    "timezone": null,
+                    "lineSegments": [
+                        {
+                            "id": 10001,
+                            "sequenceNum": 1,
+                            "status": "A",
+                            "polyline": {
+                                "pointsData": "qspcIhl`oU?JM[AICk@RaAT_@POJIBC@A@A??@?BADCDEHODQBSBMBMBKBERWLMJSFW@K?K??@I@I?IP}@?M?MCU?YB]?c@AI?KAK?IAG?AAC?A?A?CAEAKAQM}@AMDa@@SBM?EA?EAIDIJA?AAAG?MAE?C???A?CAWC_@Eg@EOCKCIEKCGEEEOAEASEOMMGK?AEMIe@M_AOm@Ki@ASESAQAK???A?I?I?G?C?QBU?[@K?G?OAS?E?G?OAO?QAM?[?W?G?I?G?I?QH{@DQDEDE??DCBGBG@Y?ICSAIISCQ?CAG?E?GAI?GAGCGUa@GQCIIUMUISG]?U?GAE?AAG?G?K@Q?GCa@?OCMK[EGCGMQCKAY?EBI?OAIAA?CAGAIGUG]?ECMGKAKAGCE??AECIEMEMAMEOGO?IEQ?I?A?I@GBKFQLa@BGDU@Q?WAC?U@K?Y@G?S@UBE?A@EBCBEDGBMD[BGDM\\s@H]@CVIP?B?D?J@JAN?H?RAJAHADADCHMDCFMDGFKFMBG@CDGBKFUHe@De@?KAOCGGQU]QUGGCCEGIIKOOUQa@QYMOO[CGAGAQ?I?G?Y@]Bc@DQ@O?K?g@@Q?SAO?O@U?Q?A?O?GAGCICCEAEBUj@KZMZGZGNCFKFEBA@E@A@A@A@A?A?A?C@A?E@CBE@CFEPE^B|@B`@CTMVADEJLL\\XLTMU]YMMDK@ELWBUCa@C}@D_@DQBGDABCDA@?BA@?@?@?@A@A@ADA@ADCJGBGFOF[L[J[Tk@DCD@BBBH@F?F?N?@?PAT?N@N?RAP?f@?JANEPCb@A\\?X?F?H@P@FBFNZLNPXP`@NTJNHHDFBBFFPTT\\FPBF@N?JEd@Id@GTCJEFABCFGLGJEFGLEBILEBE@I@K@S@I?O?K@KAE?C?Q?WHABI\\]r@ELCFEZCLEFCDCBAD?@CDAT?RAF?XAJ?T@B?VAPETCFM`@GPCJAF?H?@?HDP?HFNDN@LDLDLBH@D??BD@F@JFJBL?DF\\FT@H@F?B@@@H?NCH?D@XBJLPBFDFJZBL?NB`@?FAP?J?F@F?@@D?F?TF\\HRLTHTBHFPT`@BF@F?F@H?F?D@F?BBPHR@HBR?HAXCFCFEB??EDEDEPIz@?P?H?F?H?F?V?Z@L?P@N?N?F?D@R?N?FAJ?ZCT?P?B?F?H?H?@??@J@PDR@RJh@Nl@L~@Hd@DL?@FJLLDN@R@DDNDDBFDJBHBJDNDf@B^@V?B?@???B@D?L@F@@@?HKHED@@??DCLARE`@@LL|@@P@J@D?B?@?@@B?@@F?H@J?J@H?b@C\\?XBT?L?LQ|@?HAHAH???JAJGVKRMLSVCDCJCLCLCREPINEDEBC@A???A@A@CBKHQNU^S`ABj@@HLZ?K",
+                                "elevationData": null,
+                                "indexedElevationData": "?_hb{yDgEotLgEoylDgEo~rAgE_awSgE__ry@gE_m{b@gE_vxVgE_otLgEohyCgEodkAgE_cmAgE?gE_mVgE_fiAgEo|k@gE_zxAgE_y`GgE_xkHgEodeIgE_zuEgE_t}EgE_`nEgEoxzAgEotfGgE_klBgE_owHgE_jnOgE_uoHgE_qaFgE?gEohyCgE_g{CgEoylDgEol{UgE_t}EgE_buFgE_ulLgE_`hMgE_kcNgE_onTgE_qaFgE_eqFgE_plGgE_cjEgEoj`EgEo_h@gE_hpBgEo_h@gEo_h@gE_`qAgE_g{CgEoezGgEocpJgE_~hk@gE_y}JgEovdTgE_f`MgE_wyEgE_msCgE_ieAgEowbGgEopxDgE?gE_laAgEo`zBgEoyiHgEosnLgE_gxGgE_skCgE?gE_ieAgE_skCgE_aq[gE_|df@gE_o|k@gE_piKgE_}qEgEokuCgEotiCgE_qdBgE_laAgE_||FgE_qdBgE_hjJgEozaCgEo~rAgEo`zBgE_vJgEoofBgE_buFgEoieNgE_rpLgEobxOgEowbGgE_uoHgEopuHgE_ibEgE?gEoe`@gE_{jDgEotfGgE__yFgEo}}BgEomsPgEohpOgEoeqSgEoxwEgEom|DgE_t}EgE_neFgE_uu@gE_ieAgE_ffEgE_rsHgEo{pIgE_jtGgEo||SgE_`eQgE_rvDgE_`nEgE_acDgEoalEgE_brJgEolfq@gEocpJgEoe`@gE_vgCgE?gE_cmAgE_ibEgEom|DgEocgVgE_xkHgE_pcSgE_i_IgE_~zSgEoycPgEoinBgE_buFgE_d_DgE_ibEgE_plGgE_ibEgE_zuEgE_qaFgEorm]gEoewKgE_ffEgE_oqPgE_qo]gEol{UgEoafMgEoj`EgEosw@gE_ieAgEotLgEo~rAgEosw@gEo~rAgE_bxBgEoaoAgEor|IgE_xkHgE_}nIgEojwPgEo}wJgEobrWgE_ztp@gE_zfYgEowgj@gE_hmFgE_boNgEokiSgE_wvIgE_|BgE_nhBgEonqCgE_cjEgEor|IgE_wsMgEo}}BgE_rvDgE_laAgEod|TgE_k`RgE_`eQgE?gE_}kMgEonbWgE_an_@gE_seKgEntLgE_|BgEnm_AgE_vdGgEocmNgE_||FgEovs@gE_||FgEo}zFgEoieNgE_ivTgEorpYgE_db@gEobaDgEotiCgEo~rAgE?gE_cmAgE_ffEgE_f`MgE_etBgE_brJgE_otLgE_ieAgEo_h@gEoinBgEosw@gE_t`BgE__|BgEoqjGgEoycPgEoweCgE_cjEgE_ll\\gEoshTgEoxzAgEoldJgEoe}CgEo_h@gEom_AgEo{vAgE_~fDgEojcAgE~auFgEnb{KgEn~oEgE~f{CgEokXgE_hpBgEoxqMgE_w|AgEomvLgEou{EgE_~fDgE_g{CgEo|hDgEo~rAgE_rvDgE_hmFgE_xbTgEov{_@gEo`hZgE_mpGgE_vdGgE_vgCgEoqgKgE_rd\\gEolaNgEoljBgE_g^gE_|BgE~paFgE~vsMgEnjcAgE_||FgE_klBgE_vgCgEo~rAgE?gE~lVgEoinBgE_sNgEotLgE_db@gE~iZgEoqPgEnsw@gEo|k@gEou~AgEo~lIgE_{m@gE_ry@gEorbBgE_vJgEndkAgE~rNgEn}@gE~rNgE~xFgEobd@gE_cmAgEo~rAgEo}}BgE_skCgE_ziUgE_~zSgEoy}WgE__vJgE_q{MgEoqjGgE_zlQgEostDgE_laAgE_{jDgEojcAgEojcAgEojcAgEovs@gEovs@gE_xq@gEo`zBgEovs@gEovpDgE_poCgEostDgE_bxBgEobaDgEob~GgEot`OgEotiCgEowHgEotLgEo}@gE_pRgEnjcAgE~|hQgE~{vNgE_|vNgE_}hQgEojcAgE~oRgEn}@gEntLgEnwHgEntiCgEnt`OgEnb~GgEnbaDgE~axBgEnstDgE~ooCgEnvpDgEnvs@gEn`zBgE~wq@gEnvs@gEnvs@gEnjcAgEnjcAgEnjcAgE~zjDgE~kaAgEnstDgE~ylQgEnqjGgE~p{MgE~~uJgEny}WgE~}zSgE~yiUgE~rkCgEn}}BgEn~rAgE~bmAgEnbd@gE_yFgE_sNgEo}@gE_sNgEodkAgE~uJgEnrbBgE~qy@gE~zm@gEn~lIgEnu~AgEn|k@gEosw@gEnqPgE_jZgE~cb@gEntLgE~rNgEninBgE_mVgE?gEn~rAgE~ugCgE~jlBgE~{|FgEojcAgE_wsMgE_qaFgE~{BgE~f^gEnljBgEnlaNgE~qd\\gEnqgKgE~ugCgE~udGgE~lpGgEn`hZgEnv{_@gE~wbTgE~gmFgE~qvDgEn~rAgEn|hDgE~f{CgE~}fDgEnu{EgEnmvLgE~v|AgEnxqMgE~gpBgEnkXgE_g{CgEo~oEgEob{KgE_buFgEnjcAgE~}fDgEn{vAgEnm_AgEn_h@gEne}CgEnldJgEnxzAgEnshTgE~kl\\gE~bjEgEnweCgEnycPgEnqjGgE~~{BgE~s`BgEnsw@gEninBgEn_h@gE~heAgE~ntLgE~arJgE~dtBgE~e`MgE~efEgE~bmAgE?gEn~rAgEntiCgEnbaDgE~cb@gEnrpYgE~hvTgEnieNgEn}zFgE~{|FgEnvs@gE~{|FgEncmNgE~udGgEom_AgE~{BgEotLgE~reKgE~`n_@gEnnbWgE~|kMgE?gE~_eQgE~j`RgEnd|TgE~kaAgE~qvDgEn}}BgE~vsMgEnr|IgE~bjEgEnnqCgE~mhBgE~{BgE~vvIgEnkiSgE~aoNgE~gmFgEnwgj@gE~yfYgE~ytp@gEnbrWgEn}wJgEnjwPgE~|nIgE~wkHgEnr|IgEnaoAgE~axBgEn~rAgEnsw@gEn~rAgEntLgE~heAgEnsw@gEnj`EgEnafMgEnl{UgE~po]gE~nqPgE~efEgEnewKgEnrm]gE~paFgE~yuEgE~hbEgE~olGgE~hbEgE~c_DgE~auFgEninBgEnycPgE~}zSgE~h_IgE~ocSgE~wkHgEncgVgEnm|DgE~hbEgE~bmAgE?gE~ugCgEne`@gEncpJgEnlfq@gE~arJgEnalEgE~`cDgE~_nEgE~qvDgE~_eQgEn||SgE~itGgEn{pIgE~qsHgE~efEgE~heAgE~tu@gE~meFgE~s}EgEnm|DgEnxwEgEneqSgEnhpOgEnmsPgEn}}BgE~~xFgEntfGgE~zjDgEne`@gE?gE~hbEgEnpuHgE~toHgEnwbGgEnbxOgE~qpLgEnieNgE~auFgEnofBgE~uJgEn`zBgEn~rAgEnzaCgE~gjJgE~pdBgE~{|FgE~kaAgE~pdBgEntiCgEnkuCgE~|qEgE~oiKgE~n|k@gE~{df@gE~`q[gE~rkCgE~heAgE?gE~rkCgE~fxGgEnsnLgEnyiHgEn`zBgE~kaAgE?gEnpxDgEnwbGgE~heAgE~lsCgE~vyEgE~e`MgEnvdTgE~x}JgE~}hk@gEncpJgEnezGgE~f{CgE~_qAgEn_h@gEn_h@gE~gpBgEn_h@gEnj`EgE~bjEgE~olGgE~dqFgE~paFgE~nnTgE~jcNgE~_hMgE~tlLgE~auFgE~s}EgEnl{UgEnylDgE~f{CgEnhyCgE?gE~paFgE~toHgE~inOgE~nwHgE~jlBgEntfGgEnxzAgE~_nEgE~s}EgE~yuEgEndeIgE~wkHgE~x`GgE~yxAgEn|k@gE~eiAgE~lVgE?gE~bmAgEndkAgEnhyCgE~ntLgE~uxVgE~l{b@gE~~qy@gE~`wSgEn~rAgEnylDgEntL"
+                            },
+                            "lineGeoStats": {
+                                "distanceTotal": 0.0,
+                                "elevationStart": null,
+                                "elevationEnd": null,
+                                "elevationGain": 0.0,
+                                "elevationLoss": 0.0,
+                                "elevationMax": null,
+                                "elevationMin": null
+                            }
+                        }
+                    ],
+                    "lineGeoStats": {
+                        "distanceTotal": 0.0,
+                        "elevationStart": null,
+                        "elevationEnd": null,
+                        "elevationGain": 0.0,
+                        "elevationLoss": 0.0,
+                        "elevationMax": null,
+                        "elevationMin": null
+                    }
+                }
+            ],
+            "waypoints": [],
+            "mapPhotos": [],
+            "metadata": {
+                "created": "2026-08-07T01:37:25Z",
+                "updated": "2026-08-07T01:37:25Z",
+                "status": "A",
+                "source": 1046,
+                "timezone": null,
+                "cursor": "eyJjcmVhdGVkX2F0IjoiMjAyNi0wOC0wNyAwMTozNzoyNSIsImlkIjo0MDY3MjM2MjcsInJhdGluZyI6bnVsbH0="
+            },
+            "estimatedTimeToComplete": {
+                "value": "2–2.5",
+                "unit": "hr"
+            }
+        }
+    ],
+    "meta": {
+        "status": "ok",
+        "items": 1,
+        "timestamp": "2026-09-01T20:14:44Z"
+    },
+    "pageInfo": null
+}

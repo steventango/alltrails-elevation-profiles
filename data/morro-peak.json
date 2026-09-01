@@ -1,0 +1,138 @@
+{
+    "maps": [
+        {
+            "id": 406762935,
+            "name": "Morro Peak",
+            "description": null,
+            "description_lang": null,
+            "description_original": null,
+            "description_source": null,
+            "presentationType": "map",
+            "slug": "suggested-route-fe52d3b",
+            "created_at": "2026-08-07T06:35:27Z",
+            "timezone": null,
+            "location": {
+                "postalCode": null,
+                "city": null,
+                "region": "AB",
+                "country": "CA",
+                "country_id": 139,
+                "latitude": "53.04179",
+                "longitude": "-118.08773"
+            },
+            "bounds": {
+                "latitudeTopLeft": "53.04179",
+                "latitudeBottomRight": "53.03238",
+                "longitudeTopLeft": "-118.08796",
+                "longitudeBottomRight": "-118.06601"
+            },
+            "trailId": 10299679,
+            "activity": null,
+            "rating": null,
+            "difficulty": null,
+            "comment": null,
+            "obstacles": null,
+            "ratingAttributes": [],
+            "infoAttributes": [],
+            "user": null,
+            "dataUid": null,
+            "associatedTrailReviewId": null,
+            "routeType": null,
+            "originalAtMapId": 406762934,
+            "private": null,
+            "contentPrivacy": "urn:alltrails:visibility:public",
+            "hidden": null,
+            "popularity": null,
+            "summaryStats": {
+                "duration": 193,
+                "updatedAt": "2026-08-07T06:35:28Z",
+                "elevationMax": 1662,
+                "distanceTotal": 5730.56,
+                "elevationGain": 629,
+                "elevationLoss": 628
+            },
+            "profilePhotoId": null,
+            "photoCount": 0,
+            "splits": null,
+            "routes": [
+                {
+                    "id": 1,
+                    "sequenceNum": 1,
+                    "status": "A",
+                    "description": null,
+                    "name": null,
+                    "rating": null,
+                    "trailId": null,
+                    "location": {
+                        "postalCode": null,
+                        "city": null,
+                        "region": "AB",
+                        "country": "CA",
+                        "country_id": 139,
+                        "latitude": "53.04179",
+                        "longitude": "-118.08773"
+                    },
+                    "bounds": {
+                        "latitudeTopLeft": "53.04179",
+                        "latitudeBottomRight": "53.03238",
+                        "longitudeTopLeft": "-118.08796",
+                        "longitudeBottomRight": "-118.06601"
+                    },
+                    "createdAt": null,
+                    "updatedAt": null,
+                    "timezone": null,
+                    "lineSegments": [
+                        {
+                            "id": 10001,
+                            "sequenceNum": 1,
+                            "status": "A",
+                            "polyline": {
+                                "pointsData": "evvbIh_woUXl@DUBMAMCGEOCOAK?EBQ@MDKFGFIHIBE@E??@EBGFMBE@GAKGMEM?K?[AEE_@CQAE@QBMF]DQ?A@G@O?QAEAGAQ?IBUFOR]H]BS?QDQBQ@GDU@[@_@BULo@Da@Bc@BUDU@O?ADSB]Fk@Bc@BM@KBQF[?a@AQEY?E?AAE?G?K?IGi@CIAK?E?M@I@ENWNSBEBI@e@BQ?E??@G@G@K?GBM@K?OEYCa@EW?IAE?E?K@E@ANGHIJOBEBGBIBMBOHS^k@?A`@e@DMDEHY@O?C?GBO@OBWBIBEDEFCFAH@TAREDELQNMFCBABA@AFCFCFC@E?KAI?u@AC@IAQAC@C?G@AFCPEH?FCDG@I???IAKAGCGOMACAKAE?SDSDG??BCLEJAPDTJNF@?NDLFNJR\\DBLHFF\\`@JZDR@BF^DZB`@@@?J@D?LBJBDDDH@BAPOFCB?JDDFBH@@@HBLBNBNHNL`@DFB@B@XDVJHJDPBDBA@ADG@E@C@EDIPS\\_@HMJKFELCLGJOFK@ADK@A@C?A@CBEBGDGDKACECMI@IBK?GCCIECEAC@G?E@IDKHS?EBI?G@K@I?A?A@C@E@G?K?KCGBS?M?KBIDQBIBQF[?GBE@ELIJMBC@C@EBEBE?C@CBEBE@EDEDQDGDGHc@BWDQ?EBEFKBK@E?EBc@?AACAE@A?C?A@A?A?CDMFSF]BIN[DK?KAEC?C@MLC?AC@E@EJ_@@ADQ@E@E@ECAA?OFGFG@EACCAM?G@G@EBE?A@KBOBSJ_@@I?S?C@G@IBI@C?G?ACM?GBKJOL[?Q@I@QAMD]@CJMFM@E?E??AECE@E@C?CDKFOHM@E?ICM?GAE?G?CHMBKDEPSFIJc@@E@CBKBI@EBIFOBEHEZE@CBCDE@EHQHUJUDKBQ@E@MBQ@ABKLW@I?E?EDGBEFWJMJQBIF[@IAECC?GDI@ADKFK@C@CLYLSNUFIHSHKFQ@E?G?G?KAI?IAEAAACEACGA?AEAEACEAA?CAA?AAEEGCICIBEHCDCDA@EHCD?@EHITA?C?AEAAEAC?ABABEDA@CFA@?@ELCDE@E?AAA?ACAAAECICMEIIBGFEHGHEJEHCBKXEJGHGBGHGDGF?L?J?K?MFGFEFIFCFIDKJYBCDIDKFIDIFGHCDHBLBH@D@@@B@?@@D?DABEDM?A@ABG@ADE@C@CB?D@@@@DB?@?HUDI?ABEDI@ABEBEDIHCHBFBDD@@@?B@@?D@@B@D@D@?BFD@@B@@@D?H@H?J?F?FADGPIJIRGHOTMRMXABABGJEJA@EH?FBB@DAHGZCHKPKLGVCDEF?D?DAHMVCJA@CPALADCPEJKTITIPADEDCBAB[DIDCDGNCHADCHCJABADKb@GHQREDCJIL?B?F@D?FBL?HADILGNEJ?BABADBD@D???DADGLKLABE\\@LAPAH?PMZKNCJ?FBL?@?FABCHAHAF?B?RAHK^CRCNAJ?@CDADAF?F@LBBD@FAFGNG@?B@ADADADEPA@K^ADAD@BB?LMBAB?@D?JEJOZCHG\\GREL?B?@A@?@?BA@@D@B?@Cb@?DADCJGJCD?DEPCVIb@EFEFEPEDADCDCDAB?BCDCDADABCBKLMHADCD?FGZCPCHEPCH?J?LCRBF?J?JAFADAB?@?@AHAJ?FCH?DIREJAH?DAF@BBDHDBB?FCJAHLHDB@BEJEFCFCDAB?@ABA@EJA@GJKNMFMBGDKJIL]^QREHADABADEFA@C@CEEQIKWKYECACAEGMa@IOCOCOCMAIAACIEGKEC?GBQNC@IAEECECK?MAE?KAACa@E[G_@ACESK[]a@GGMIECS]OKMGOEA?OGUKQEK@MDCB??EFER?R@D@J@BNLBF@F@J?H??AHEFGBI?QDGBA@?FAB@B@PAH@B?t@@H?JADGBGBGBA@C@C@GBOLMPEDSDU@IAG@GBEDCDCHCVANCN?F?BANIXEDELa@d@?@_@j@IRCNCLCHCFCDKNIHOFA@AD?J?D@D?HDVB`@DX?NAJCL?FAJAFAF???DCPAd@CHCDOROVADAH?L?D@JBHFh@?H?J?F@D?@?DDX@P?`@GZCPAJCLCb@Gj@C\\ER?@ANETCTCb@E`@Mn@CTA^AZETAFCPEP?PCRI\\S\\GNCT?H@P@F@D?PANAF?@EPG\\CLAP@DBPD^@D?Z?JDLFL@JAFCDGLCFAD??ADCDIHGHGFEJALCP?D@JBNDNBF@LCLETYm@",
+                                "elevationData": null,
+                                "indexedElevationData": "?_nmocEgE~rNgEo_eDgEoxzAgE~xFgE_af@gEnqPgE~rkCgEnp{@gEnnTgE~cb@gE~cb@gEn_h@gEn}@gEo|k@gE_laAgE_laAgE_cmAgE?gE_`qAgEo`zBgEocsFgE_klBgE__|BgE_qaFgE_wyEgEo}zFgEolgFgEo_|OgE_sNgE_t`BgEoljBgE_db@gEn|k@gEnfrBgE~itGgEnm|DgE?gE~n}@gE~qy@gE_laAgE_zxAgEorbBgEoqmCgEo_h@gEnsw@gE~_nEgE~ooCgEoxwEgEolgFgE_neFgEoocFgE_t}EgE_zxAgE_t}EgE_gxGgE_l{HgE_mpGgE_`bUgEourQgEog{PgEohvGgEoylDgEodkAgEotLgE_db@gE_|_CgEoxwEgEolgFgEodkAgE_ieAgEorbBgEoylDgE_twMgEowbGgEoqdOgEocvBgEo_h@gE_klBgE_g{CgEolgFgEom|DgE_dpWgEoweCgE_~fDgE_`qAgEoj`EgEo`zBgE_xq@gE_qdBgEonTgEozDgE_xq@gEor|IgEozaCgE_af@gE?gEovs@gEosw@gEo~rAgEosw@gEodkAgE_laAgEo~rAgEostDgEoskPgE_guKgEodhEgE_qdBgEocvBgEofoFgEonqCgEojcAgEo}wJgE_`kIgE_boNgE_rvDgE_qaFgE_mpGgE_l{HgE_q~IgE_i|LgE__g^gE_db@gE_ekNgEonqCgEodkAgE_l{HgE_poCgE_db@gE_ieAgEotiCgEokrGgE_guKgEobaDgEoxzAgEo~rAgE_~i@gEozDgE~heAgE_~i@gEo`nRgEonnGgE_k}UgE_c~TgE_zuEgE_klBgE_klBgEo{vAgEor_FgE_neFgEolgFgE_neFgEo__LgEoj}HgE_wut@gE_t`BgEoflJgE_f}PgEorbBgEo|hDgE_plGgE_nhBgEoyiHgEo{jQgE_}qEgEomyHgEo__LgEokoKgE?gE_kfJgEonkKgE_||FgE_~fDgEn}@gEo_h@gE_ffEgE_ieAgEoqgKgEojwPgEoo`JgE?gEo{sEgEourQgEodbMgE_hgNgEonkKgEo}zFgEoggAgEo|_PgE_hgNgE_ekNgE~dqFgE_o}@gEobaDgE_}tAgEowyRgE_~`LgEo{sEgEojcAgE_pRgEnggAgEnxzAgEo~rAgE~zm@gE_fiAgEnyo@gEn}}BgE~heAgE~f^gE_klBgE_zxAgEoafMgE_ycCgE_neFgE_}_]gEocpJgE_ycCgE_etBgE~qy@gEnnTgE~bmAgEnljBgEokuCgEnm|DgEoggAgEoweCgE_|_CgE_yn^gE_klBgE~lmKgEn~cUgE~~xFgE_w|AgE_w|AgEotcKgE_{gHgE_`nEgEopuHgE_yzNgEopf\\gEovug@gE_ulLgEoinBgEnm_AgEnnhOgE~``HgE_goSgE_mjOgEovs@gEozxNgE_db@gE_msCgEocvBgE_skCgEonqCgEo`wFgE_vgCgEor|IgE_zrIgE_luPgE_vij@gE_twMgE_|yJgE_seKgEonkKgEowvVgE_otLgE__yFgE_hmFgE_buFgEomyHgE_plGgE_iyPgE_y`GgE_enJgEoezGgE_hjJgEopuHgE_laAgEom_AgEo`zBgEoj`EgEoqjGgE_piKgEo}wJgE_buFgEowyRgE_`hMgEo|bLgEo~lIgEoo}MgE_vdGgEovdTgEowmb@gE_enJgEo}zFgEokrGgE_wsMgEokfWgEne`@gEo~rAgE_ffEgEop{@gE_~i@gE_`nEgE_`qAgE_}tAgE_hpBgEo`wFgEoggAgEoyz[gE_}tAgE_~i@gE_k`RgE_uzc@gE_{{WgE_piKgE_|_CgE_g{CgE_wvIgEoj`EgE_uoHgEoj|s@gE_qdBgE_xkHgEoyfLgE~{BgEo~oEgE_nhBgEnnTgE_qdBgE_cjEgE_t}EgEohjWgE_jmz@gE_seKgEnetOgE~lVgE_n_NgE_dyKgEokrGgE_rvDgE_f}PgEosqHgE_||FgEozDgE_ry@gEol~QgEnnTgEoklOgE_xnDgEovpDgEostDgEohvGgEoxzAgE_jqKgEo|k@gEn|hDgEn}@gEoljBgE_~}OgE_cgIgE_kfJgE_gxGgE_l{HgE_`qAgE_kfJgE_jqKgE__sNgE_xhLgEostDgEog~LgE_zxAgE_qdBgE__|BgE_|_CgE_uu@gEocvBgEoh\\gEoj`EgE_msCgEoocFgE_gxGgEocmNgEoryMgEofoFgEosnLgEotzVgE_`mp@gEostDgE_hdRgE_x_XgE_hjJgEo__LgE?gEolaNgE_rmPgE_nbJgE_`nEgEocsFgEoikFgE_zrIgE_qaFgEostDgE_vaKgEorvQgE_plGgE_y`GgE_plGgE_ycCgE_zuEgE_neFgEntLgE_{m@gE_ieAgEo_|OgEoxzAgEoyo@gE_ffEgE_klBgE_laAgE_klBgE_ibEgEodkAgEoqPgE~`cDgE_fiAgE_db@gE_ry@gEoqmCgE_y}JgE_v~NgEo`tJgE_}qEgE_vaKgE_etBgE_rsHgEocpJgEotLgEoxwEgE_wvIgE_}qEgEonqCgE_msCgEoxzAgE_klBgE_s_SgEostDgEodeIgE_plGgEo_vWgE_~cHgE_~cHgE_i_IgE_dyKgE_{gHgEokXgE_wvIgEo~oEgE_}tAgEoofBgE_{aPgEnbd@gE~ecIgE~efEgE_g{CgE~uJgE_cmAgEosw@gE_ibEgEogdEgEo|eHgEoocFgE_nhBgEohyCgE_hpBgE_ycCgE_{gHgE_shGgEoxzAgEohyCgE_g{CgEo|hDgEo__LgE__|BgE_gxGgEo`zBgE_jwCgE_otLgE_|vNgEoxnQgE_xePgEomyHgE_rvDgE_hpBgE_laAgEotiCgE_w|AgEnkXgEoinBgEovs@gEodkAgE_jwCgEogdEgE_hpBgE_plGgE_hmFgEoaoAgEoxzAgE_d|GgEou~AgE_w|AgE_qdBgE~wq@gEoinBgE_~fDgE_xhLgE_q{MgE_cjEgE_g{CgE_buFgEodhEgE_d|GgEog~LgE_q~IgEnkXgE_plGgEozaCgEoggAgEopxDgE_}qEgE_plGgEohyCgE_poCgEobd@gEoinBgE_urDgEoh\\gE_af@gEntiCgE~oiKgE~|nIgE_}nIgE_piKgEotiCgE~`f@gEnh\\gE~trDgEninBgEnbd@gE~ooCgEnhyCgE~olGgE~|qEgEnpxDgEnggAgEnzaCgE~olGgEokXgE~p~IgEng~LgE~c|GgEndhEgE~auFgE~f{CgE~bjEgE~p{MgE~whLgE~}fDgEninBgE_xq@gE~pdBgE~v|AgEnu~AgE~c|GgEnxzAgEnaoAgE~gmFgE~olGgE~gpBgEngdEgE~iwCgEndkAgEnvs@gEninBgEokXgE~v|AgEntiCgE~kaAgE~gpBgE~qvDgEnmyHgE~wePgEnxnQgE~{vNgE~ntLgE~iwCgEn`zBgE~fxGgE~~{BgEn__LgEn|hDgE~f{CgEnhyCgEnxzAgE~rhGgE~zgHgE~xcCgE~gpBgEnhyCgE~mhBgEnocFgEn|eHgEngdEgE~hbEgEnsw@gE~bmAgE_vJgE~f{CgE_ffEgE_fcIgEobd@gE~zaPgEnofBgE~|tAgEn~oEgE~vvIgEnkXgE~zgHgE~cyKgE~h_IgE~}cHgE~}cHgEn_vWgE~olGgEndeIgEnstDgE~r_SgE~jlBgEnxzAgE~lsCgEnnqCgE~|qEgE~vvIgEnxwEgEntLgEncpJgE~qsHgE~dtBgE~uaKgE~|qEgEn`tJgE~u~NgE~x}JgEnqmCgE~qy@gE~cb@gE~eiAgE_acDgEnqPgEndkAgE~hbEgE~jlBgE~kaAgE~jlBgE~efEgEnyo@gEnxzAgEn_|OgE~heAgE~zm@gEotLgE~meFgE~yuEgE~xcCgE~olGgE~x`GgE~olGgEnrvQgE~uaKgEnstDgE~paFgE~yrIgEnikFgEncsFgE~_nEgE~mbJgE~qmPgEnlaNgE?gEn__LgE~gjJgE~w_XgE~gdRgEnstDgE~_mp@gEntzVgEnsnLgEnfoFgEnryMgEncmNgE~fxGgEnocFgE~lsCgEnj`EgEnh\\gEncvBgE~tu@gE~{_CgE~~{BgE~pdBgE~yxAgEng~LgEnstDgE~whLgE~~rNgE~iqKgE~jfJgE~_qAgE~k{HgE~fxGgE~jfJgE~bgIgE~}}OgEnljBgEo}@gEo|hDgEn|k@gE~iqKgEnxzAgEnhvGgEnstDgEnvpDgE~wnDgEnklOgEonTgEnl~QgE~qy@gEnzDgE~{|FgEnsqHgE~e}PgE~qvDgEnkrGgE~cyKgE~m_NgE_mVgEoetOgE~reKgE~imz@gEnhjWgE~s}EgE~bjEgE~pdBgEonTgE~mhBgEn~oEgE_|BgEnyfLgE~wkHgE~pdBgEnj|s@gE~toHgEnj`EgE~vvIgE~f{CgE~{_CgE~oiKgE~z{WgE~tzc@gE~j`RgE~}i@gE~|tAgEnyz[gEnggAgEn`wFgE~gpBgE~|tAgE~_qAgE~_nEgE~}i@gEnp{@gE~efEgEn~rAgEoe`@gEnkfWgE~vsMgEnkrGgEn}zFgE~dnJgEnwmb@gEnvdTgE~udGgEno}MgEn~lIgEn|bLgE~_hMgEnwyRgE~auFgEn}wJgE~oiKgEnqjGgEnj`EgEn`zBgEnm_AgE~kaAgEnpuHgE~gjJgEnezGgE~dnJgE~x`GgE~hyPgE~olGgEnmyHgE~auFgE~gmFgE~~xFgE~ntLgEnwvVgEnnkKgE~reKgE~{yJgE~swMgE~uij@gE~kuPgE~yrIgEnr|IgE~ugCgEn`wFgEnnqCgE~rkCgEncvBgE~lsCgE~cb@gEnzxNgEnvs@gE~ljOgE~foSgE_a`HgEonhOgEom_AgEninBgE~tlLgEnvug@gEnpf\\gE~xzNgEnpuHgE~_nEgE~zgHgEntcKgE~v|AgE~v|AgE__yFgEo~cUgE_mmKgE~jlBgE~xn^gE~{_CgEnweCgEnggAgEom|DgEnkuCgEoljBgE_cmAgEonTgE_ry@gE~dtBgE~xcCgEncpJgE~|_]gE~meFgE~xcCgEnafMgE~yxAgE~jlBgE_g^gE_ieAgEo}}BgEoyo@gE~eiAgE_{m@gEn~rAgEoxzAgEoggAgE~oRgEnjcAgEn{sEgE~}`LgEnwyRgE~|tAgEnbaDgE~n}@gE_eqFgE~dkNgE~ggNgEn|_PgEnggAgEn}zFgEnnkKgE~ggNgEndbMgEnurQgEn{sEgE?gEno`JgEnjwPgEnqgKgE~heAgE~efEgEn_h@gEo}@gE~}fDgE~{|FgEnnkKgE~jfJgE?gEnkoKgEn__LgEnmyHgE~|qEgEn{jQgEnyiHgE~mhBgE~olGgEn|hDgEnrbBgE~e}PgEnflJgE~s`BgE~vut@gEnj}HgEn__LgE~meFgEnlgFgE~meFgEnr_FgEn{vAgE~jlBgE~jlBgE~yuEgE~b~TgE~j}UgEnnnGgEn`nRgE~}i@gE_ieAgEnzDgE~}i@gEn~rAgEnxzAgEnbaDgE~fuKgEnkrGgEntiCgE~heAgE~cb@gE~ooCgE~k{HgEndkAgEnnqCgE~dkNgE~cb@gE~~f^gE~h|LgE~p~IgE~k{HgE~lpGgE~paFgE~qvDgE~aoNgE~_kIgEn}wJgEnjcAgEnnqCgEnfoFgEncvBgE~pdBgEndhEgE~fuKgEnskPgEnstDgEn~rAgE~kaAgEndkAgEnsw@gEn~rAgEnsw@gEnvs@gE?gE~`f@gEnzaCgEnr|IgE~wq@gEnzDgEnnTgE~pdBgE~wq@gEn`zBgEnj`EgE~_qAgE~}fDgEnweCgE~cpWgEnm|DgEnlgFgE~f{CgE~jlBgEn_h@gEncvBgEnqdOgEnwbGgE~swMgEnylDgEnrbBgE~heAgEndkAgEnlgFgEnxwEgE~{_CgE~cb@gEntLgEndkAgEnylDgEnhvGgEng{PgEnurQgE~_bUgE~lpGgE~k{HgE~fxGgE~s}EgE~yxAgE~s}EgEnocFgE~meFgEnlgFgEnxwEgE_poCgE_`nEgEosw@gEn_h@gEnqmCgEnrbBgE~yxAgE~kaAgE_ry@gE_o}@gE?gEom|DgE_jtGgEofrBgEo|k@gE~cb@gEnljBgE~s`BgE~rNgEn_|OgEnlgFgEn}zFgE~vyEgE~paFgE~~{BgE~jlBgEncsFgEn`zBgE~_qAgE?gE~bmAgE~kaAgE~kaAgEn|k@gEo}@gEo_h@gE_db@gE_db@gEonTgEop{@gE_skCgEoqPgE~`f@gE_yFgEnxzAgEn_eDgE_sN"
+                            },
+                            "lineGeoStats": {
+                                "distanceTotal": 0.0,
+                                "elevationStart": null,
+                                "elevationEnd": null,
+                                "elevationGain": 0.0,
+                                "elevationLoss": 0.0,
+                                "elevationMax": null,
+                                "elevationMin": null
+                            }
+                        }
+                    ],
+                    "lineGeoStats": {
+                        "distanceTotal": 0.0,
+                        "elevationStart": null,
+                        "elevationEnd": null,
+                        "elevationGain": 0.0,
+                        "elevationLoss": 0.0,
+                        "elevationMax": null,
+                        "elevationMin": null
+                    }
+                }
+            ],
+            "waypoints": [],
+            "mapPhotos": [],
+            "metadata": {
+                "created": "2026-08-07T06:35:27Z",
+                "updated": "2026-08-07T06:35:28Z",
+                "status": "A",
+                "source": 1046,
+                "timezone": null,
+                "cursor": "eyJjcmVhdGVkX2F0IjoiMjAyNi0wOC0wNyAwNjozNToyNyIsImlkIjo0MDY3NjI5MzUsInJhdGluZyI6bnVsbH0="
+            },
+            "estimatedTimeToComplete": {
+                "value": "3.5–4",
+                "unit": "hr"
+            }
+        }
+    ],
+    "meta": {
+        "status": "ok",
+        "items": 1,
+        "timestamp": "2026-09-01T19:56:45Z"
+    },
+    "pageInfo": null
+}
