@@ -179,31 +179,34 @@ def discover_trails(data_dir: Path) -> list[dict]:
     return trails
 
 
-def legend_positions(n: int, cols: int | None = None) -> list[tuple[float, float]]:
-    """Return (x, y) in axes-fraction for n legend entries, wrapping as needed."""
-    if n <= 0:
-        return []
-    if cols is None:
-        cols = 3 if n >= 6 else (4 if n == 5 else max(n, 1))
-    cols = min(cols, n)
-    rows = math.ceil(n / cols)
-    # Top of axes is 1.0; stack rows above the plot
-    row_height = 0.085
+def legend_grid(n: int) -> tuple[int, int]:
+    """Choose (cols, rows) for n legend entries."""
+    if n <= 4:
+        return n, 1
+    if n <= 6:
+        return 3, 2
+    if n <= 8:
+        return 4, 2
+    cols = 4
+    return cols, math.ceil(n / cols)
+
+
+def legend_positions(n: int, cols: int, rows: int) -> list[tuple[float, float]]:
+    """Return (x, y) in axes-fraction for n legend entries.
+
+    Each entry needs room for a title line + a stats line, so row pitch is
+    generous and y sits fully above the axes (y > 1).
+    """
+    # Pitch covers name + stats + gap between rows
+    row_pitch = 0.145
+    y_top = 1.0 + 0.04 + (rows - 1) * row_pitch + 0.055
     positions = []
     for i in range(n):
         r, c = divmod(i, cols)
-        # actual columns in this row (last row may be short)
-        row_count = min(cols, n - r * cols)
-        # spread across [0, 0.98]
-        if row_count == 1:
-            x = 0.0
-        else:
-            x = c / (cols - 1) * 0.78 if cols > 1 else 0.0
-            # better: even spacing for items in full grid
-            x = c * (0.98 / cols)
-        y = 1.0 + (rows - r) * row_height
+        x = c / cols
+        y = y_top - r * row_pitch
         positions.append((x, y))
-    return positions, rows
+    return positions
 
 
 def main():
@@ -221,12 +224,13 @@ def main():
     ybot = 0
 
     n = len(trails)
-    cols = 3 if n >= 6 else (4 if n == 5 else n)
-    positions, rows = legend_positions(n, cols=cols)
+    cols, rows = legend_grid(n)
+    positions = legend_positions(n, cols, rows)
 
-    fig_w = 12.5 if n <= 5 else 13.5
-    top_margin = 0.78 - 0.04 * max(0, rows - 1)
-    fig, ax = plt.subplots(figsize=(fig_w, 4.4 + 0.35 * rows), dpi=200)
+    fig_w = 12.5 if n <= 4 else 13.2
+    fig_h = 4.2 + 0.55 * rows
+    top_margin = max(0.55, 0.82 - 0.12 * rows)
+    fig, ax = plt.subplots(figsize=(fig_w, fig_h), dpi=200)
     fig.patch.set_facecolor(BG)
     ax.set_facecolor(BG)
 
@@ -269,8 +273,9 @@ def main():
         ha="left", va="center", **text_kwargs,
     )
 
-    name_size = 8.5 if n <= 5 else 8.0
-    stat_size = 7.0 if n <= 5 else 6.5
+    name_size = 8.5 if n <= 6 else 8.0
+    stat_size = 7.0 if n <= 6 else 6.5
+    stats_gap = 0.058
     for (x, y), t in zip(positions, trails):
         name_kwargs = {"color": t["color"], "fontsize": name_size}
         if PROP_MED is not None:
@@ -280,12 +285,12 @@ def main():
         if PROP_REG is not None:
             sub_kwargs["fontproperties"] = PROP_REG
         ax.text(
-            x, y - 0.055,
+            x, y - stats_gap,
             f"{t['stats']['distanceTotal']/1000:.1f} km · {int(t['stats']['elevationGain'])} m gain",
             transform=ax.transAxes, ha="left", va="bottom", **sub_kwargs,
         )
 
-    fig.subplots_adjust(left=0.02, right=0.90, top=top_margin, bottom=0.12)
+    fig.subplots_adjust(left=0.03, right=0.90, top=top_margin, bottom=0.12)
     out_png = ROOT / "elevation-gain-alltrails-style.png"
     out_pdf = ROOT / "elevation-gain-alltrails-style.pdf"
     fig.savefig(out_png, facecolor=BG, edgecolor="none", dpi=200)
