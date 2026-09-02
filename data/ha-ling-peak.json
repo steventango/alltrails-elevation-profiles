@@ -1,0 +1,324 @@
+{
+    "maps": [
+        {
+            "id": 383203246,
+            "name": "Ha Ling Peak",
+            "description": null,
+            "description_lang": null,
+            "description_original": null,
+            "description_source": null,
+            "presentationType": "map",
+            "slug": "suggested-route-7ae16c0",
+            "created_at": "2026-05-16T13:35:01Z",
+            "timezone": null,
+            "location": {
+                "postalCode": null,
+                "city": "Canmore",
+                "region": "AB",
+                "country": "CA",
+                "country_id": 139,
+                "latitude": "51.0618",
+                "longitude": "-115.41784"
+            },
+            "bounds": {
+                "latitudeTopLeft": "51.06435",
+                "latitudeBottomRight": "51.05661",
+                "longitudeTopLeft": "-115.41784",
+                "longitudeBottomRight": "-115.39956"
+            },
+            "trailId": 10035569,
+            "activity": null,
+            "rating": null,
+            "difficulty": null,
+            "comment": null,
+            "obstacles": null,
+            "ratingAttributes": [],
+            "infoAttributes": [],
+            "user": null,
+            "dataUid": null,
+            "associatedTrailReviewId": null,
+            "routeType": null,
+            "originalAtMapId": 383203241,
+            "private": null,
+            "contentPrivacy": "urn:alltrails:visibility:public",
+            "hidden": null,
+            "popularity": null,
+            "summaryStats": {
+                "duration": 249,
+                "updatedAt": "2026-05-16T13:35:01Z",
+                "elevationMax": 2453,
+                "distanceTotal": 7962.23,
+                "elevationGain": 792,
+                "elevationLoss": 776
+            },
+            "profilePhotoId": null,
+            "photoCount": 0,
+            "splits": null,
+            "routes": [
+                {
+                    "id": 1,
+                    "sequenceNum": 1,
+                    "status": "A",
+                    "description": null,
+                    "name": null,
+                    "rating": null,
+                    "trailId": null,
+                    "location": {
+                        "postalCode": null,
+                        "city": "Canmore",
+                        "region": "AB",
+                        "country": "CA",
+                        "country_id": 139,
+                        "latitude": "51.0618",
+                        "longitude": "-115.41784"
+                    },
+                    "bounds": {
+                        "latitudeTopLeft": "51.06435",
+                        "latitudeBottomRight": "51.05661",
+                        "longitudeTopLeft": "-115.41784",
+                        "longitudeBottomRight": "-115.39956"
+                    },
+                    "createdAt": null,
+                    "updatedAt": null,
+                    "timezone": null,
+                    "lineSegments": [
+                        {
+                            "id": 10001,
+                            "sequenceNum": 1,
+                            "status": "A",
+                            "polyline": {
+                                "pointsData": "g_tvHnpm_U@MBMFOFIDGFGHAFCHCHCFAHAHAFCHAHAFAHABA@?@?FCLEPGb@YRQJILIN@L@JBB?@?D@H@HFD@PANALBBD@DDD@DBFFDREFELAFAD???@?D?H?HBN?DB@@@DFTDJBFFHJBB?DCLUNWP[PUR]NOLETGb@AJCBEDEDKHMHQNKTOHENCNCFCJ?NBJDFB@@B@D?F?HGFGRQNSDIBQBG@I?GAKCECESOKKGEIUSk@EKWa@SWAEAG?E?MAMEMEGEGGEEAM?E@G@OEKEOKEGKQGMEg@EYCM?AAKAKCICAKAMEGIC?C@EDITIHKHOHSBM@S@QBUBi@D[?Y?SAQ?M?SAY?G@_@?GAI@EAO@Q?c@?_@Bg@D_@EG?O@MBI@O?O?O@EAe@BO?WBYHQDM@K?M@EAEG?I@MBKBWHMLKFIBGDQ?EBMBK@G@G@GBGDKVIRELCFELIDGH_@P]HMDCZWJQJQFIBEDEDIJQP]FIDEHEDA@?B?@?BADCPUPQTYNMRSFKHUFOBG?A@C@CBGBMDS@KBI@ID_@BMBODK@A?CA?GBGFMDSFMDG@O@W@GAW?SBO?KCYQQKICICKAM?OAg@Hm@BIFIFGDEDC@G?MCG?MBS@I?M?CAECEKAEAS@IAMAGEKEGEGEGEIGKI[CUEIKGG?EACCOUEEKAIDK?ECEEIIGMIOGIKIMGIGUWGMCKGSCGKOGKDQDOHOJEH@B?ZBHBBAL@D@R@LFB?DBD@JALANERSJENMZULENCLEJEDEDGL]BGBCFEVGNIJCHCLIPMLIDKFMFOD[@o@?k@DWACACMCOIMGQGSGYKGCIIAG?CFQR_@P]Vi@L_@Pe@@GTm@BOJ]HUFQBODUH]BMB[FUDKJe@Rc@DMDKBIBI@I@I?EMk@EICQ?G@GFSBI@CBQFWBGFQDMBG@KDSFk@BO@IBINUFQ?CEIAG@I@MBG@EAGCEEGEECECCCAIBSBQAo@Mc@EMAKAKCICMEOEM?I?G@GFSFEDC@INMJKDG@GAEAC?AAKDODQHABGBe@HMJGBW@O@I?E?I?G?I?G?C?GAEKEKGEA?KAI?G@GAGAGGIAI??@C?A?AAEAA?I@E@GBG@I?I?A?GCIACCAC@KDKBMDKBM?MCKBJ?LCLEJCLEJAJ@BBBH@FB@?H?H?FAFCDAHA@?D@@@@?B??AH?H@FFF@F@FAH?J@@?FDDJDJF@B?F?H?F?H?D?H?NAVAFCLKd@IFC@CPINEJE@@B?D@F@FAJELKHOBADERGFGFAH?L?NDLDHBJBJ@L@b@Dn@LP@RCHCB@BBBDDDDFBD@FADCFALAH@FDH?BGPOTCHAHCNGj@ERAJCFELGPCFGVCPABCHGRAF?FBPDHLj@?DAHAHCHCHEJELSb@Kd@EJGTCZCLI\\ETCNGPITK\\CNUl@AFQd@M^Wh@Q\\S^GP?B@FHHFBXJRFPFLFNHLB@B@BEV?j@An@EZGNGLEJMHQLMHIBKBOHWFGDCBCFM\\EFEDKDMDOBMD[TOLKDSRODM@K@EAECC?MGSAEAMAC@IC[CC?IAKDINENEPFJJNBFFRBJFLTVHFLFJHFHHNFLHHDDDBJ?HEJ@DDNTBBD@F?JFDHBTHZFJDHDFDFDFDJ@F@LAH@R@DDJDBB@L?H?RALCF?LBF?BADEFEHGHGl@Cf@IN@L?J@HBHBPJXPJBN?RCV?F@VANAFALERGLEFGFC@??BA@EJCNCLE^AHCHAJERCLCFABAB?@CFGNITGJSROLUXQPQTEBC@A?C?A?E@IDEDGHQ\\KPEHEDCDGHKPKP[VEBILQ\\I^EFMHGDMBSDWHEJCFAFAFAFCJCL?DEPCFGHMJILCVCJAL?HDFD@LAJ?LAPEXIVCN?d@CD@NAN?N?HALCNAF?^Df@E^Cb@?P?NAD@HAF@^?FAX?R@L?P?R@X?Z?h@ETCPCRALARCNIJIHIHUDEBAB?FHLDJ@B@BH@J@J?@BLDXDf@FLJPDFNJJDNDFADAL?D@FDDFDFDL@L?L?D@F@DRVV`@DJRj@HTFDJJRNBDBD@J?FAHCFCPEHORSPGFIFG?E?CAAAGCKEOCK?GBOBOBIDUNOJIPILEJEDCDKBc@@UFMDONS\\QTQZOVMTEBC?KCGICGEKGUAEAAECO?ICI?E?A???E?G@M@GDSDGECGAEEEAECEMCO@Q@EAIGIAEAA?C?KCMAOAMHKHSPc@XQFMDGBA?A?C@I@G@I@I@GBI@I@G@IBIBGBI@GFEFGHGNCLAL",
+                                "elevationData": null,
+                                "indexedElevationData": "?_j|s|HgE_~}OgEorpYgEokc[gE__sNgE_guKgEokrGgEnbaDgE~oRgE~zm@gE~iZgE~kaAgEoewKgE_mmKgEotcKgEor|IgEoaiIgEotfGgEow|NgE_wyEgE_w|AgEoxzAgEob{KgE_dsSgEoa`UgEo_ySgEo`zBgEnhyCgE_qdBgEnpxDgEnylDgEn~oEgEn_h@gEnnTgEnjcAgEninBgE~xcCgE~eiAgE_ry@gEoinBgE~rNgEntiCgEne}CgEngdEgEndhEgEnpuHgEno`JgE~dtBgE_~fDgEoaoAgEomvLgE_buFgE?gE_`qAgE_buFgE_dyKgE_neFgE_pfOgEn{vAgE~tu@gEnu{EgEnrm]gEncjRgEndbMgE~ocSgE~oiKgEnh\\gEowbGgEoipi@gEou`i@gE_lch@gE_ngm@gEod~{@gE_g`g@gE_pfOgEod_QgE_o}@gE~dtBgEn|k@gEnrbBgEnqmCgEngaIgE~v|AgEow_KgE_rmPgEoikFgEo}@gEnzDgEobd@gE~bmAgE_eqFgE_}qEgE_skCgEotLgE_ieAgEo|hDgEor_FgEomsPgEoskPgE_sdv@gE__laAgEon_[gEo`bb@gE_klBgE_{jDgEokuCgEofoFgE_ycCgE__|BgE~efEgE~f^gE~`f@gE_hjJgE~~uJgEnvpDgE~~lVgE~~{BgE_zxAgEoinBgE_zxAgE_`nEgEoalEgEodhEgE_hpBgEo}}BgE_hpBgEovs@gE_~i@gE~lVgEnqPgEo`zBgEoljBgE_cjEgEoqmCgEodbMgEoihJgEott^gEojtTgEocpJgEoyo@gEosqHgEovmHgEotfGgE_nhBgE_wyEgE_wvIgEocpJgE_ry@gEn}@gE~kaAgE~f{CgE_hmFgEor|IgEoklOgEoflJgEne`@gEnh\\gEosw@gEocjRgEogxTgE_gxGgE_enJgE_hgNgEoaiIgE_y}JgE_biVgEovaXgEn~rAgEom_AgE_zxAgEnm_AgE_uu@gEnfrBgE~wq@gEokoKgE_vaKgEozxNgEov{_@gE_l~DgE_neFgE?gEo`wFgE_tqUgEorsUgEourQgE_~fDgEom|DgE_t`BgE~olGgEnfiNgE~iZgE_nhBgE_|_CgE_uu@gEnp{@gE_ry@gE_}qEgEoaiIgE_fcIgEompTgEo||SgEocgVgEoibRgE_}kMgE_uzc@gE_q~IgE_ll\\gE_`_YgEobxOgE_~}OgE_mjOgE_jnOgE_lrTgEobxOgE_hmFgEoqPgE_qdBgE_etBgEokuCgEoq~VgE~|nIgEnh\\gEnwHgEotfGgE_piKgE_pfOgE_seKgEofoFgE_mpGgEokoKgE_fzTgEoq{ZgE_fcIgEogdEgEopxDgEovs@gEnwHgE~iZgE~`f@gE_yFgEom_AgE_bfZgE_ivTgE_ehRgE~jlBgEo_h@gEo{sEgE_zrIgEolgFgEo}}BgEosw@gE_laAgE_ieAgEoofBgEobaDgEoxzAgE_ieAgE_fiAgEo|eHgE_x|[gE_jkSgE_jb_@gE_v{RgEom_AgE_plGgEoggAgEozDgE~nwHgEoshTgEofwe@gE_vr^gE_jkSgE_ulLgEo}qRgEouxIgEo`bb@gEov~[gEokc[gE_eqFgEovmHgE_t`BgE_zxAgEoweCgE_|_CgEoljBgE_acDgE~_nEgEopxDgE~qsHgE~yrIgE~gmFgEnr_FgEn_h@gE_nhBgEo{pIgE_w|AgE_msCgE_iyPgE_l{HgEojzLgEom|DgE_etBgE_||FgE_skCgEoskPgE_tzIgEocpJgE_`nEgE_~cHgEo~oEgEocsFgEoqjGgE_hmFgEodeIgE_s_SgEo{mMgEogdEgE_rvDgE~rNgE_o}@gE_jwCgEoxhYgE_g{CgE_cmAgE~n}@gE_uu@gE_ieAgE_af@gEoqPgE_|BgEoqPgE_t`BgE~`f@gE_{m@gE_g{CgE_n|QgE_mpGgE_t}EgEoqjGgE_~i@gE_vJgEozDgEoikFgE_a}KgE_ulLgEor_FgEowbGgEocvBgEo{gUgEobaDgEoweCgE_zxAgE_yFgE_~fDgE~zm@gE~rNgEncvBgE~heAgE_yFgE?gEovpDgE_kw]gEojzLgE_biVgE_jyj@gE_azOgE_grOgEog~LgEoz{JgE_buFgEou{EgE_a}KgE_t`BgEoofBgEocsFgE_zfYgEoq~VgEo|bLgE_fcIgEo_|OgE_pcSgEne`@gE~_qAgE~uJgEostDgE__jZgE_zqt@gE_mdWgEo|eHgE_xq@gEoyo@gEo_h@gEoggAgEndkAgEntcKgE~`}KgE~}`LgE~|tAgEozDgE_bxBgEodkAgEo|bLgE_jnOgEourQgEodv\\gEo~}\\gE_xy_@gE_cjEgE_ebZgEoo`JgEog{PgE_caQgEovjLgE_jnOgE_loXgE_hxa@gE_`bUgE_`mp@gE_loXgEotfGgE_ijd@gE_~kg@gE_dvOgE_hmFgEostDgEovpDgE_skCgE_nhBgEoggAgEovjLgEoofBgE_a}KgEogdEgE_}qEgE_f}PgE_q{MgEogdEgE_nvYgE_|mZgEnbd@gEokXgEou~AgEoaoAgEor_FgE_|vNgE_uqo@gEo|yWgEolaNgEocmNgE_|pVgEojwPgE_poCgEoprLgEodeIgEo`tJgEoklOgEocsFgEogdEgEoo`JgEoj}HgEouxIgEo_bHgE_shGgE_}qEgEoinBgE_sNgEozaCgEo|eHgE_lzs@gEoaqh@gEoo}MgE_piKgEo~oEgEofrBgEostDgE_~i@gEnvpDgEn_bHgEnxwEgEnikFgE~`zOgEn`zBgE~eiAgEnkuCgEnpxDgE~lsCgE~pdBgEn_h@gEobd@gE_db@gE~xFgEoalEgE_buFgE_zuEgEoe`@gEotLgE~{_CgEoewKgE_{gHgEobo[gE_vxVgE_awSgEokoKgE_awSgEoetOgE_awSgE_mjOgEofoFgE_cdMgEo{sEgEo`wFgEoo}MgE_vgCgE_rgXgE_xbTgE_yzNgE_hgNgE_kcNgE_rpLgE_wpQgEol~QgE_pRgEoihJgE_qaFgE_wyEgE_ivTgE_kiFgE_m{b@gE_goSgEoseXgEopiXgEohd_@gEoxtIgE_ieAgEo`tJgE_wvIgE_{jDgE_qdBgEnwHgE~xcCgE~pdBgE~}fDgEnrsUgE~n_h@gEnmmXgEommXgE_o_h@gEorsUgE_~fDgE_qdBgE_ycCgEowHgE~pdBgE~zjDgE~vvIgEn`tJgE~heAgEnxtIgEnhd_@gEnpiXgEnseXgE~foSgE~l{b@gE~jiFgE~hvTgE~vyEgE~paFgEnihJgE~oRgEnl~QgE~vpQgE~qpLgE~jcNgE~ggNgE~xzNgE~wbTgE~qgXgE~ugCgEno}MgEn`wFgEn{sEgE~bdMgEnfoFgE~ljOgE~`wSgEnetOgE~`wSgEnkoKgE~`wSgE~uxVgEnbo[gE~zgHgEnewKgE_|_CgEntLgEne`@gE~yuEgE~auFgEnalEgE_yFgE~cb@gEnbd@gEo_h@gE_qdBgE_msCgEopxDgEokuCgE_fiAgEo`zBgE_azOgEoikFgEoxwEgEo_bHgEovpDgE~}i@gEnstDgEnfrBgEn~oEgE~oiKgEno}MgEnaqh@gE~kzs@gEn|eHgEnzaCgE~rNgEninBgE~|qEgE~rhGgEn_bHgEnuxIgEnj}HgEno`JgEngdEgEncsFgEnklOgEn`tJgEndeIgEnprLgE~ooCgEnjwPgE~{pVgEncmNgEnlaNgEn|yWgE~tqo@gE~{vNgEnr_FgEnaoAgEnu~AgEnkXgEobd@gE~{mZgE~mvYgEngdEgE~p{MgE~e}PgE~|qEgEngdEgE~`}KgEnofBgEnvjLgEnggAgE~mhBgE~rkCgEnvpDgEnstDgE~gmFgE~cvOgE~}kg@gE~hjd@gEntfGgE~koXgE~_mp@gE~_bUgE~gxa@gE~koXgE~inOgEnvjLgE~baQgEng{PgEno`JgE~dbZgE~bjEgE~wy_@gEn~}\\gEndv\\gEnurQgE~inOgEn|bLgEndkAgE~axBgEnzDgE_}tAgE_~`LgE_a}KgEotcKgEodkAgEnggAgEn_h@gEnyo@gE~wq@gEn|eHgE~ldWgE~yqt@gE~~iZgEnstDgE_vJgE_`qAgEoe`@gE~ocSgEn_|OgE~ecIgEn|bLgEnq~VgE~yfYgEncsFgEnofBgE~s`BgE~`}KgEnu{EgE~auFgEnz{JgEng~LgE~frOgE~`zOgE~iyj@gE~aiVgEnjzLgE~jw]gEnvpDgE?gE~xFgE_ieAgEocvBgE_sNgE_{m@gE~}fDgE~xFgE~yxAgEnweCgEnbaDgEn{gUgEncvBgEnwbGgEnr_FgE~tlLgE~`}KgEnikFgEnzDgE~uJgE~}i@gEnqjGgE~s}EgE~lpGgE~m|QgE~f{CgE~zm@gE_af@gE~s`BgEnqPgE~{BgEnqPgE~`f@gE~heAgE~tu@gE_o}@gE~bmAgE~f{CgEnxhYgE~iwCgE~n}@gE_sNgE~qvDgEngdEgEn{mMgE~r_SgEndeIgE~gmFgEnqjGgEncsFgEn~oEgE~}cHgE~_nEgEncpJgE~szIgEnskPgE~rkCgE~{|FgE~dtBgEnm|DgEnjzLgE~k{HgE~hyPgE~lsCgE~v|AgEn{pIgE~mhBgEo_h@gEor_FgE_hmFgE_zrIgE_rsHgEnpxDgE_`nEgE~`cDgEnljBgE~{_CgEnweCgE~yxAgE~s`BgEnvmHgE~dqFgEnkc[gEnv~[gEn`bb@gEnuxIgEn}qRgE~tlLgE~ikSgE~ur^gEnfwe@gEnshTgE_owHgEnzDgEnggAgE~olGgEnm_AgE~u{RgE~ib_@gE~ikSgE~w|[gEn|eHgE~eiAgE~heAgEnxzAgEnbaDgEnofBgE~heAgE~kaAgEnsw@gEn}}BgEnlgFgE~yrIgEn{sEgEn_h@gE_klBgE~dhRgE~hvTgE~afZgEnm_AgE~xFgE_af@gE_jZgEowHgEnvs@gEnpxDgEngdEgE~ecIgEnq{ZgE~ezTgEnkoKgE~lpGgEnfoFgE~reKgE~ofOgE~oiKgEntfGgEowHgEoh\\gE_}nIgEnq~VgEnkuCgE~dtBgE~pdBgEnqPgE~gmFgEnbxOgE~krTgE~inOgE~ljOgE~}}OgEnbxOgE~__YgE~kl\\gE~p~IgE~tzc@gE~|kMgEnibRgEncgVgEn||SgEnmpTgE~ecIgEnaiIgE~|qEgE~qy@gEop{@gE~tu@gE~{_CgE~mhBgE_jZgEofiNgE_plGgE~s`BgEnm|DgE~}fDgEnurQgEnrsUgE~sqUgEn`wFgE?gE~meFgE~k~DgEnv{_@gEnzxNgE~uaKgEnkoKgE_xq@gEofrBgE~tu@gEom_AgE~yxAgEnm_AgEo~rAgEnvaXgE~aiVgE~x}JgEnaiIgE~ggNgE~dnJgE~fxGgEngxTgEncjRgEnsw@gEoh\\gEoe`@gEnflJgEnklOgEnr|IgE~gmFgE_g{CgE_laAgEo}@gE~qy@gEncpJgE~vvIgE~vyEgE~mhBgEntfGgEnvmHgEnsqHgEnyo@gEncpJgEnjtTgEntt^gEnihJgEndbMgEnqmCgE~bjEgEnljBgEn`zBgEoqPgE_mVgE~}i@gEnvs@gE~gpBgEn}}BgE~gpBgEndhEgEnalEgE~_nEgE~yxAgEninBgE~yxAgE__|BgE__mVgEovpDgE__vJgE~gjJgE_af@gE_g^gE_ffEgE~~{BgE~xcCgEnfoFgEnkuCgE~zjDgE~jlBgEn`bb@gEnn_[gE~~kaAgE~rdv@gEnskPgEnmsPgEnr_FgEn|hDgE~heAgEntLgE~rkCgE~|qEgE~dqFgE_cmAgEnbd@gEozDgEn}@gEnikFgE~qmPgEnw_KgE_w|AgEogaIgEoqmCgEorbBgEo|k@gE_etBgE~n}@gEnd_QgE~ofOgE~f`g@gEnd~{@gE~mgm@gE~kch@gEnu`i@gEnipi@gEnwbGgEoh\\gE_piKgE_pcSgEodbMgEocjRgEorm]gEou{EgE_uu@gEo{vAgE~ofOgE~meFgE~cyKgE~auFgE~_qAgE?gE~auFgEnmvLgEnaoAgE~}fDgE_etBgEoo`JgEopuHgEodhEgEogdEgEoe}CgEotiCgE_sNgEninBgE~qy@gE_fiAgE_ycCgEoinBgEojcAgEonTgEo_h@gEo~oEgEoylDgEopxDgE~pdBgEohyCgEn`zBgEn_ySgEna`UgE~csSgEnb{KgEnxzAgE~v|AgE~vyEgEnw|NgEntfGgEnaiIgEnr|IgEntcKgE~lmKgEnewKgE_laAgE_jZgE_{m@gE_pRgEobaDgEnkrGgE~fuKgE~~rNgEnkc[gEnrpYgE~}}O"
+                            },
+                            "lineGeoStats": {
+                                "distanceTotal": 0.0,
+                                "elevationStart": null,
+                                "elevationEnd": null,
+                                "elevationGain": 0.0,
+                                "elevationLoss": 0.0,
+                                "elevationMax": null,
+                                "elevationMin": null
+                            }
+                        }
+                    ],
+                    "lineGeoStats": {
+                        "distanceTotal": 0.0,
+                        "elevationStart": null,
+                        "elevationEnd": null,
+                        "elevationGain": 0.0,
+                        "elevationLoss": 0.0,
+                        "elevationMax": null,
+                        "elevationMin": null
+                    }
+                }
+            ],
+            "waypoints": [
+                {
+                    "id": 68654395,
+                    "name": "Bench rock",
+                    "name_lang": "en-US",
+                    "name_original": "Bench rock",
+                    "description": "",
+                    "description_lang": null,
+                    "description_original": "",
+                    "order": 2,
+                    "location": {
+                        "latitude": 51.06229,
+                        "longitude": -115.41302
+                    },
+                    "at_map_id": 18628176,
+                    "enable_translations": true,
+                    "waypointDisplayProperty": {
+                        "showTitle": false
+                    },
+                    "waypointCategory": null,
+                    "contentPrivacy": null,
+                    "isGlobal": null,
+                    "user": null
+                },
+                {
+                    "id": 68654396,
+                    "name": "Lookout",
+                    "name_lang": "en-US",
+                    "name_original": "Lookout",
+                    "description": "",
+                    "description_lang": null,
+                    "description_original": "",
+                    "order": 3,
+                    "location": {
+                        "latitude": 51.06077,
+                        "longitude": -115.41148
+                    },
+                    "at_map_id": 18628176,
+                    "enable_translations": true,
+                    "waypointDisplayProperty": {
+                        "showTitle": false
+                    },
+                    "waypointCategory": null,
+                    "contentPrivacy": null,
+                    "isGlobal": null,
+                    "user": null
+                },
+                {
+                    "id": 68654398,
+                    "name": "Lookout ",
+                    "name_lang": "en-US",
+                    "name_original": "Lookout ",
+                    "description": "",
+                    "description_lang": null,
+                    "description_original": "",
+                    "order": 5,
+                    "location": {
+                        "latitude": 51.06408,
+                        "longitude": -115.40779
+                    },
+                    "at_map_id": 18628176,
+                    "enable_translations": true,
+                    "waypointDisplayProperty": {
+                        "showTitle": false
+                    },
+                    "waypointCategory": null,
+                    "contentPrivacy": null,
+                    "isGlobal": null,
+                    "user": null
+                },
+                {
+                    "id": 68654406,
+                    "name": "Treeline",
+                    "name_lang": "en-US",
+                    "name_original": "Treeline",
+                    "description": "",
+                    "description_lang": null,
+                    "description_original": "",
+                    "order": 6,
+                    "location": {
+                        "latitude": 51.06062,
+                        "longitude": -115.40098
+                    },
+                    "at_map_id": 18628176,
+                    "enable_translations": true,
+                    "waypointDisplayProperty": {
+                        "showTitle": false
+                    },
+                    "waypointCategory": null,
+                    "contentPrivacy": null,
+                    "isGlobal": null,
+                    "user": null
+                },
+                {
+                    "id": 68654415,
+                    "name": "Saddle",
+                    "name_lang": "en-US",
+                    "name_original": "Saddle",
+                    "description": "",
+                    "description_lang": null,
+                    "description_original": "",
+                    "order": 7,
+                    "location": {
+                        "latitude": 51.06177,
+                        "longitude": -115.39954
+                    },
+                    "at_map_id": 18628176,
+                    "enable_translations": true,
+                    "waypointDisplayProperty": {
+                        "showTitle": false
+                    },
+                    "waypointCategory": null,
+                    "contentPrivacy": null,
+                    "isGlobal": null,
+                    "user": null
+                },
+                {
+                    "id": 68654421,
+                    "name": "Ha Ling Peak",
+                    "name_lang": "st",
+                    "name_original": "Ha Ling Peak",
+                    "description": "",
+                    "description_lang": null,
+                    "description_original": "",
+                    "order": 8,
+                    "location": {
+                        "latitude": 51.0641303,
+                        "longitude": -115.3993408
+                    },
+                    "at_map_id": 18628176,
+                    "enable_translations": true,
+                    "waypointDisplayProperty": {
+                        "showTitle": false
+                    },
+                    "waypointCategory": null,
+                    "contentPrivacy": null,
+                    "isGlobal": null,
+                    "user": null,
+                    "name_unsupported_language": true
+                },
+                {
+                    "id": 274693076,
+                    "name": "Parking Lot",
+                    "name_lang": "en-US",
+                    "name_original": "Parking Lot",
+                    "description": "",
+                    "description_lang": "un",
+                    "description_original": "",
+                    "order": 1,
+                    "location": {
+                        "latitude": 51.06195,
+                        "longitude": -115.4183
+                    },
+                    "at_map_id": 18628176,
+                    "enable_translations": true,
+                    "waypointDisplayProperty": {
+                        "showTitle": false
+                    },
+                    "waypointCategory": null,
+                    "contentPrivacy": null,
+                    "isGlobal": null,
+                    "user": null
+                },
+                {
+                    "id": 274693224,
+                    "name": "Lookout",
+                    "name_lang": "en-US",
+                    "name_original": "Lookout",
+                    "description": "Nice view of the Valley.",
+                    "description_lang": "en-US",
+                    "description_original": "Nice view of the Valley.",
+                    "order": 4,
+                    "location": {
+                        "latitude": 51.06217,
+                        "longitude": -115.40996
+                    },
+                    "at_map_id": 18628176,
+                    "enable_translations": true,
+                    "waypointDisplayProperty": {
+                        "showTitle": false
+                    },
+                    "waypointCategory": null,
+                    "contentPrivacy": null,
+                    "isGlobal": null,
+                    "user": null
+                }
+            ],
+            "mapPhotos": [],
+            "metadata": {
+                "created": "2026-05-16T13:35:01Z",
+                "updated": "2026-07-15T02:12:03Z",
+                "status": "A",
+                "source": 1046,
+                "timezone": null,
+                "cursor": "eyJjcmVhdGVkX2F0IjoiMjAyNi0wNS0xNiAxMzozNTowMSIsImlkIjozODMyMDMyNDYsInJhdGluZyI6bnVsbH0="
+            },
+            "estimatedTimeToComplete": {
+                "value": "4.5–5",
+                "unit": "hr"
+            }
+        }
+    ],
+    "meta": {
+        "status": "ok",
+        "items": 1,
+        "timestamp": "2026-09-02T22:14:54Z"
+    },
+    "pageInfo": null
+}
